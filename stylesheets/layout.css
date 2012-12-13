@@ -17,7 +17,7 @@
 /* #Site Styles
 ================================================== */
 #navbanner{
-	background-color: red;
+	xxxbackground-color: red;
 
 }
 
@@ -29,13 +29,14 @@
 
 	/* Smaller than standard 960 (devices and browsers) */
 	@media only screen and (max-width: 959px) {
+		
 		h5{
-			color: red;
+			xxxcolor: red;
 		}
 
 		#navbanner{
-			background-color: black;
-			color: red;
+			xxxbackground-color: black;
+			xxxcolor: red;
 
 		}
 

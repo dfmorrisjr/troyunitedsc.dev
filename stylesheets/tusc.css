@@ -1,0 +1,30 @@
+body{
+
+	background-color: #25136e;
+}
+
+.mainlogo{
+	margin-top: 10px;
+}
+
+.maintitle
+{
+	color: #fff;
+	margin-top: 40px;
+	font-variant: small-caps;
+
+}
+
+.tagline{
+	color: #fff;
+	font-variant: small-caps;
+
+}
+
+.navigationhr{
+
+	display: block; height: 1px;
+    border: 0; border-top: 1px solid #eed91e;
+    margin: 1em 0; padding: 0;
+
+}

@@ -21,6 +21,7 @@
 	<link rel="stylesheet" href="stylesheets/base.css">
 	<link rel="stylesheet" href="stylesheets/skeleton.css">
 	<link rel="stylesheet" href="stylesheets/layout.css">
+	<link rel="stylesheet" href="stylesheets/tusc.css">
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -44,15 +45,70 @@
 	<!-- Delete everything in this .container and get started on your own site! -->
 
 	<div class="container">
-		<div class="sixteen columns">
-			<h1 class="remove-bottom" style="margin-top: 40px">Troy United Soccer Club</h1>
-			<h5>Official WebSite</h5>
-			<hr />
-			<div id="navbanner">
-				Put the navigation here.
-			</div>	
+	<header>
+		<div class="two columns alpha mainlogo">
+			<img src="images/tuscshieldmainlogo.png">
 		</div>
-		
+		<div class="fourteen columns">
+			
+			<h1 class="remove-bottom maintitle">Troy United Soccer Club</h1>
+			<h5 class="tagline">Official WebSite</h5>
+			<br class="clear" />
+		</div>
+		<div class="sixteen columns">
+			<hr class="navigationhr"/>
+		</div>
+		<div id="navbanner" class="sixteen columns">
+			<div class="three columns">Join Our Club</div>
+			<div class="three columns">Teams</div>
+			<div class="three columns">Locations</div>
+			<div class="three columns">Programs</div>
+			<div class="three columns omega">Register</div>
+			
+			<br class="clear" />
+		</div>
+	</header>
+
+<!-- Give column value in word form (one, two..., twelve) -->
+  <div class="sixteen columns">
+    <h1>Full Width Column</h1>
+  </div>
+  
+  <!-- Sweet nested columns cleared with a clearfix class -->
+  <div class="six columns clearfix">
+    <!-- In nested columns give the first column a class of alpha
+    and the second a class of omega -->
+    <div class="three columns alpha">three columns alpha</div>
+    <div class="three columns omega">three columns omega</div>
+  </div>
+ 
+  <!-- Sweet nested columns cleared by wrapping a .row -->
+  <div class="five columns">
+    <div class="row">
+      <div class="three columns alpha">three columns alpha row</div>
+      <div class="two columns omega">two columns omega row</div>
+    </div>
+  </div>
+ 
+  <!-- Sweet nested columns cleared by <br class="clear"> -->
+  <div class="five columns">
+    <div class="three columns alpha">three columns alpha</div>
+    <div class="two columns omega">two columns omega</div>
+    <br class="clear" />
+  </div>
+ 
+  <!-- Can push over by columns -->
+  <div class="five columns offset-by-one"> 5 columns push over 1</div>
+ 
+</div>
+ 
+<!-- Note: To clear columns (both nested and just stacked columns right inside the 
+.container, you can give the parent a class of "clearfix," wrap each row of columns in a 
+"<div class='row'>" or follow the last column in a row with a "<br class='clear'>." They 
+all work and it's up to your personal preference. -->
+ 
+<!-- Interested in a 12 column grid? There is an unofficial project on Github here: https://github.com/offshoot/Skeleton -->
+
 		<!--
 		<div class="sixteen columns">
 			<h1 class="remove-bottom" style="margin-top: 40px">Skeleton</h1>
