@@ -3,6 +3,8 @@ body{
 	background-color: #25136e;
 }
 
+/* **** Header */
+
 .mainlogo{
 	margin-top: 10px;
 }
@@ -10,7 +12,7 @@ body{
 .maintitle
 {
 	color: #fff;
-	margin-top: 40px;
+	
 	font-variant: small-caps;
 
 }
@@ -18,13 +20,36 @@ body{
 .tagline{
 	color: #fff;
 	font-variant: small-caps;
-
+	margin-top: 40px;
 }
 
 .navigationhr{
 
 	display: block; height: 1px;
-    border: 0; border-top: 1px solid #eed91e;
+    border: 0; border-top: 3px solid #eed91e;
     margin: 1em 0; padding: 0;
 
 }
+
+
+#navbanner{
+color: #fff;
+
+}
+
+
+/* ****  END Header */
+
+/* **** Main content  */
+
+.maincontent{
+	background-color: #fff;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+
+}
+
+
+
+
+/* **** END Main content */
