@@ -87,6 +87,12 @@ article{
 
 }
 
+.sectiontitle{
+	background-color: #25136e;
+	color: #fff;
+	font-variant: small-caps;
+}
+
 .yellowsquare{
 	background-color: #eed91e;
 	width: 30px;
