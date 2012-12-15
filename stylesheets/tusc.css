@@ -31,11 +31,37 @@ body{
 
 }
 
-
-#navbanner{
-color: #fff;
+.navitem:hover{
+	color: #eed91e;
 
 }
+
+.menuregister{
+	text-align: center;
+
+}
+
+
+#navbanner{
+	color: #fff;
+	font-variant: small-caps;
+	font-weight: bold;
+	letter-spacing: .10em;
+	text-align: left;
+	margin-bottom: 15px;
+}
+
+#navbanner a{
+	text-decoration: none;
+	color: #fff;
+
+}
+
+#navbanner a:hover{
+	color: #eed91e;
+
+}
+
 
 
 /* ****  END Header */
@@ -49,7 +75,32 @@ color: #fff;
 
 }
 
+article{
+	margin: 5px 5px 5px 5px;
+	font-size: 1.0em;
 
+}
+.articletitle{
+	background-color: #25136e;
+	color: #fff;
+	font-variant: small-caps;
+
+}
+
+.yellowsquare{
+	background-color: #eed91e;
+	width: 30px;
+	color: #eed91e;
+	margin: 2px 5px 2px 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+section{
+	border:solid 1px;
+	border-radius: 3px;
+	margin: 5px;
+}
 
 
 /* **** END Main content */
