@@ -108,5 +108,9 @@ section{
 	margin: 5px;
 }
 
+.noborder{
+	border: none;
+}
+
 
 /* **** END Main content */

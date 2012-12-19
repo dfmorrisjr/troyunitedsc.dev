@@ -22,7 +22,9 @@
 	<link rel="stylesheet" href="stylesheets/skeleton.css">
 	<link rel="stylesheet" href="stylesheets/layout.css">
 	<link rel="stylesheet" href="stylesheets/tusc.css">
-
+	<link rel="stylesheet" type="text/css" href="stylesheets/nivo-slider.css">
+    <link rel="stylesheet" type="text/css" href="stylesheets/themes/light/light.css">
+    
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
@@ -33,7 +35,15 @@
 	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-
+    
+    <!-- Scripts -->
+    <script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="scripts/jquery.nivo.slider.js"></script>
+    <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+    </script>
 </head>
 <body>
 
@@ -74,16 +84,18 @@
 
 	<div class="sixteen columns maincontent row">
 		<div class="twelve columns alpha" >
-			<section id="contentslider" class="tempborder">
-			<h4>Slider</h4>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
+			<section id="contentslider" class="noborder">
+			<div class="slider-wrapper theme-light">
+            <div id="slider" class="nivoSlider">
+                <img src="images/toystory.jpg" data-thumb="images/toystory.jpg" alt="" />
+                <a href="http://dev7studios.com"><img src="images/up.jpg" data-thumb="images/up.jpg" alt="" title="This is an example of a caption" /></a>
+                <img src="images/walle.jpg" data-thumb="images/walle.jpg" alt="" data-transition="slideInLeft" />
+                <img src="images/u12warmupdec162012.jpg" data-thumb="images/u12warmupdec162012.jpg" alt="" title="U12 Warming up before the Dec 16 2012 match." />
+            </div>
+            <div id="htmlcaption" class="nivo-html-caption">
+                U12 Warming up before the Dec 16 2012 match. 
+            </div>
+        </div>
 			</section>
 			<section>
 			<div class="sectiontitle"><span class="yellowsquare">.</span>
