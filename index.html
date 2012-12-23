@@ -24,6 +24,7 @@
 	<link rel="stylesheet" href="stylesheets/tusc.css">
 	<link rel="stylesheet" type="text/css" href="stylesheets/nivo-slider.css">
     <link rel="stylesheet" type="text/css" href="stylesheets/themes/light/light.css">
+    <link rel="stylesheet" href="stylesheets/jquery.tweet.css" media="all"  type="text/css"/>
     
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -38,12 +39,41 @@
     
     <!-- Scripts -->
     <script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
+	
 	<script type="text/javascript" src="scripts/jquery.nivo.slider.js"></script>
     <script type="text/javascript">
     $(window).load(function() {
         $('#slider').nivoSlider();
     });
     </script>
+    
+    <script type="text/javascript" src="scripts/jquery.tweet.js"></script>
+    <script type='text/javascript'>
+    jQuery(function($){
+        $("#ticker").tweet({
+          username: "troyunitedsc",
+          page: 1,
+          avatar_size: 32,
+          count: 10,
+          loading_text: "loading ..."
+        }).bind("loaded", function() {
+          var ul = $(this).find(".tweet_list");
+          var ticker = function() {
+            setTimeout(function() {
+              var top = ul.position().top;
+              var h = ul.height();
+              var incr = (h / ul.children().length);
+              var newTop = top - incr;
+              if (h + newTop <= 0) newTop = 0;
+              ul.animate( {top: newTop}, 500 );
+              ticker();
+            }, 5000);
+          };
+          ticker();
+        });
+      });
+	</script>
+
 </head>
 <body>
 
@@ -105,9 +135,23 @@
 			<div class="sectiontitle"><span class="yellowsquare">.</span>
 					recent results
 				</div>
-			<br>
-			<br>
-			<br>
+			<div id="ticker" class="query"></div>
+			<style type="text/css">
+      #ticker {
+        height: 4em;
+        overflow-y: hidden;
+        position: relative;
+      }
+      #ticker ul.tweet_list {
+        position: absolute;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0;
+      }
+      #ticker ul.tweet_list li {
+        height: 4em;
+      }
+    </style>
 			</section>
 			<section>
 				<div class="sectiontitle"><span class="yellowsquare">.</span>
@@ -145,7 +189,7 @@
 		</div>
 		<!--<br class="clear" />-->
 		<div id="recentresults" class="twelve columns alpha">
-
+			
 		</div>
 		<div id="importantlinks" class="four columns omega">
 
