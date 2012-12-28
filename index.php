@@ -269,6 +269,8 @@
   &copy; 2013 Troy United Soccer Club
   </div>
 
+<?php include("footer.html"); ?>
+
 </div><!-- container -->
 
 
