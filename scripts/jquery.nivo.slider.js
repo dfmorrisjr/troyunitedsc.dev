@@ -633,14 +633,15 @@
         });
     };
     
-    //Default settings
+    //Default settingss
+	// Original pauseTime was 3000ms -  DFM Dec 28 2012
     $.fn.nivoSlider.defaults = {
         effect: 'random',
         slices: 15,
         boxCols: 8,
         boxRows: 4,
         animSpeed: 500,
-        pauseTime: 3000,
+        pauseTime: 6000, 
         startSlide: 0,
         directionNav: true,
         controlNav: true,

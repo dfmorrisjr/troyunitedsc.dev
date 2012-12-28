@@ -12,7 +12,7 @@
 		margin: 0;
 		padding: 0;
 		overflow-y: hidden;
-		background-color: #8ADEE2;
+		/*background-color: #8ADEE2;*/
 	}
 	
 		.tweet_list li {
@@ -27,7 +27,8 @@
 			}
 		
 		.tweet_list .tweet_even {
-			background-color: #91E5E7;
+			/*background-color: #91E5E7;*/
+			
 		}
 		
 		.tweet_list .tweet_avatar {
@@ -37,3 +38,17 @@
 			.tweet_list .tweet_avatar img {
 				vertical-align: middle;
 			}
+#ticker {
+        height: 4em;
+        overflow-y: hidden;
+        position: relative;
+      }
+      #ticker ul.tweet_list {
+        position: absolute;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0;
+      }
+      #ticker ul.tweet_list li {
+        height: 4em;
+      }

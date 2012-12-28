@@ -51,7 +51,7 @@
     <script type='text/javascript'>
     jQuery(function($){
         $("#ticker").tweet({
-          username: "troyunitedsc",
+          username: "TUSCResults",
           page: 1,
           avatar_size: 32,
           count: 10,
@@ -94,14 +94,20 @@
 			<h1 class="remove-bottom maintitle">Troy United Soccer Club</h1>
 			<br class="clear" />
 		</div>
-        <div class="four columns" id="socialmedia">
-        	<h5 class="tagline" style="text-align:center">Follow Us</h5>
-            <img src="images/twitteronblue.png" alt="Follow TUSC on Twitter">
+        <div class="two columns">
+        	<h5 class="tagline" style="text-align:center;">Join our Mailing List</h5>
+        </div>
+        <div class="two columns" id="socialmedia">
+        	<h5 class="tagline" style="text-align:left">Follow Us</h5>
+            <img src="images/twitter_tu.png" alt="Follow TUSC on Twitter" class="socialicon">
+            <img src="images/facebook_tu.png" alt="Like us on Facebook" class="socialicon">
+            <img src="images/youtube_tu.png" alt="Find us on YouTube" class="socialicon">
+            <img src="images/flickr_tu.png" alt="Find us on Flickr" class="socialicon">
         </div>
 		<div class="sixteen columns">
 			<hr class="navigationhr"/>
 		</div>
-		<div id="navbanner" class="sixteen columns">
+	  <div id="navbanner" class="sixteen columns">
 			<div class="three columns"><a href="../join/join.php">Join Our Club</a></div>
 			<div class="three columns"><a href="../teams/teams.php">Teams</a></div>
 			<div class="three columns"><a href="../locations/locations.php">Locations</a></div>
@@ -117,17 +123,23 @@
 			<section id="contentslider" class="noborder">
 			<div class="slider-wrapper theme-light">
             <div id="slider" class="nivoSlider">
-                <img src="images/u11showmegames618x246.jpg" data-thumb="images/u11showmegames618x246.jpg" alt=""
-                title="#htmlcaption0"/>
-                <a href="http://dev7studios.com"><img src="images/up.jpg" data-thumb="images/up.jpg" alt="" title="This is an example of a caption" /></a>
-                <img src="images/walle.jpg" data-thumb="images/walle.jpg" alt="" data-transition="slideInLeft" />
-                <img src="images/u12warmupdec162012.jpg" data-thumb="images/u12warmupdec162012.png" alt="" title="U12 Warming up before the Dec 16 2012 match." />
+                 <img src="images/u11showmegames640x480.jpg" data-thumb="images/u11showmegames640x410.jpg" alt="" title="#htmlcaption0"/>
+                <img src="images/u12toddabbiecoachingemup640x480.jpg" data-thumb="images/u12toddabbiecoachingemup640x480.jpg" alt="" title="#htmlcaption1" />
+                <img src="images/2012summercamp640x480.jpg" data-thumb="images/2012summercamp640x480.jpg" alt="" title="#htmlcaption2" />
+               <img src="images/u8seasonopener640x480.jpg" data-thumb="images/u8seasonopener640x480.jpg" alt="" title="#htmlcaption3" />
+               
             </div>
             <div id="htmlcaption0" class="nivo-html-caption">
-                U11 at Show Me State Games Semi-Finals 
+                2012 Show Me State Games - U11 at Show Me State Games Semi-Finals 
             </div>
-            <div id="htmlcaption" class="nivo-html-caption">
-                U12 Warming up before the Dec 16 2012 match. 
+            <div id="htmlcaption1" class="nivo-html-caption">
+                Cochin' em up - Coaches Todd and Abbie coaching U12 up during halftime of the Dec 16 2012 match. 
+            </div>
+            <div id="htmlcaption2" class="nivo-html-caption">
+                2012 Summer Camp - Director of Coaching Daniel Olsted putting them through thier paces.
+            </div>
+            <div id="htmlcaption3" class="nivo-html-caption">
+                U8 Season Opener - Director of Coaching and U8 Coach Daniel Olsted preps the team for the spring 2012 season opener.
             </div>
         </div>
 			</section>
@@ -136,6 +148,7 @@
 					recent results
 				</div>
 			<div id="ticker" class="query"></div>
+			<!--
 			<style type="text/css">
       #ticker {
         height: 4em;
@@ -151,7 +164,7 @@
       #ticker ul.tweet_list li {
         height: 4em;
       }
-    </style>
+    </style>-->
 			</section>
 			<section>
 				<div class="sectiontitle"><span class="yellowsquare">.</span>
@@ -204,72 +217,59 @@
 		<br class="clear" />
 	</div>
 
-<!-- Give column value in word form (one, two..., twelve) -->
-  <div class="sixteen columns">
-    <h1>Full Width Column</h1>
+
+  <div class="navfooter">
+  <div class="five columns"><span class="navfootertoplevel">About</span>
+    <ul>
+    	<li>History</li>
+        <li>We Love Soccer</li>
+        <li>Staff</li>
+ 		<li>Contact</li>
+        <li>Locations</li>
+        <li>Register</li>       
+    </ul>
+    
+    </div>
+    <div class="five columns"><span class="navfootertoplevel">Teams</span>
+  		<ul>
+        	<li>Girls
+                <ul>
+                    <li>U8</li>
+                    <li>U11</li>
+                    <li>U12</li>
+                    <li>U13</li>
+                    <li>U14</li>
+                    <li>U16</li>
+                    <li>U18</li>
+                </ul>
+            </li>
+       </ul>
+       <ul>
+            <li>Boys
+            	<ul>
+					<li>U12</li>
+                    <li>U14</li>                
+                </ul>
+            </li>
+        </ul>
+    </div>
+  <div class="five columns"><span class="navfootertoplevel">Programs</span>
+  	<ul>
+    	<li>Development</li>
+        <li>Academy</li>
+        <li>Camps and Mini Camps</li>
+    </ul>
   </div>
   
-  <!-- Sweet nested columns cleared with a clearfix class -->
-  <div class="six columns clearfix">
-    <!-- In nested columns give the first column a class of alpha
-    and the second a class of omega -->
-    <div class="three columns alpha">three columns alpha</div>
-    <div class="three columns omega">three columns omega</div>
+  <br class="clear" />
+  </div> <!-- navfooter -->
+  
+  <div class="sixteen columns footer">
+  <span class="footerClubTitle">Troy United Soccer Club </span><br />
+  &copy; 2013 Troy United Soccer Club
   </div>
- 
-  <!-- Sweet nested columns cleared by wrapping a .row -->
-  <div class="five columns">
-    <div class="row">
-      <div class="three columns alpha">three columns alpha row</div>
-      <div class="two columns omega">two columns omega row</div>
-    </div>
-  </div>
- 
-  <!-- Sweet nested columns cleared by <br class="clear"> -->
-  <div class="five columns">
-    <div class="three columns alpha">three columns alpha</div>
-    <div class="two columns omega">two columns omega</div>
-    <br class="clear" />
-  </div>
- 
-  <!-- Can push over by columns -->
-  <div class="five columns offset-by-one"> 5 columns push over 1</div>
- 
-</div>
- 
-<!-- Note: To clear columns (both nested and just stacked columns right inside the 
-.container, you can give the parent a class of "clearfix," wrap each row of columns in a 
-"<div class='row'>" or follow the last column in a row with a "<br class='clear'>." They 
-all work and it's up to your personal preference. -->
- 
-<!-- Interested in a 12 column grid? There is an unofficial project on Github here: https://github.com/offshoot/Skeleton -->
 
-		<!--
-		<div class="sixteen columns">
-			<h1 class="remove-bottom" style="margin-top: 40px">Skeleton</h1>
-			<h5>Version 1.2</h5>
-			<hr />
-		</div>
-		<div class="one-third column">
-			<h3>About Skeleton?</h3>
-			<p>Skeleton is a small collection of well-organized CSS files that can help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone. It's based on a responsive grid, but also provides very basic CSS for typography, buttons, forms and media queries. Go ahead, resize this super basic page to see the grid in action.</p>
-		</div>
-		<div class="one-third column">
-			<h3>Three Core Principles</h3>
-			<p>Skeleton is built on three core principles:</p>
-			<ul class="square">
-				<li><strong>A Responsive Grid Down To Mobile</strong>: Elegant scaling from a browser to tablets to mobile.</li>
-				<li><strong>Fast to Start</strong>: It's a tool for rapid development with best practices</li>
-				<li><strong>Style Agnostic</strong>: It provides the most basic, beautiful styles, but is meant to be overwritten.</li>
-			</ul>
-		</div>
-		<div class="one-third column">
-			<h3>Docs &amp; Support</h3>
-			<p>The easiest way to really get started with Skeleton is to check out the full docs and info at <a href="http://www.getskeleton.com">www.getskeleton.com.</a>. Skeleton is also open-source and has a <a href="https://github.com/dhgamache/skeleton">project on git</a>, so check that out if you want to report bugs or create a pull request. If you have any questions, thoughts, concerns or feedback, please don't hesitate to email me at <a href="mailto:hi@getskeleton.com">hi@getskeleton.com</a>.</p>
-		</div>
-	-->
-
-	</div><!-- container -->
+</div><!-- container -->
 
 
 <!-- End Document
