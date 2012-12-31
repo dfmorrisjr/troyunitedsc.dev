@@ -138,9 +138,9 @@
 		<div id="calendar" class="four columns omega">
 			
 		</div>
-		<br class="clear" />
+		
 	</div>
-
+<br class="clear" />
 <!-- End Main Content -->
 
 <?php include("footer.php"); ?>
