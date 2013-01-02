@@ -1,4 +1,27 @@
 
+<div class="sixteen columns sponsors">
+	
+	<div class="four columns alpha">
+    <p class="sponsorlogo"><a href="http://pbt.net" target="_blank"><img src="images/pbt.png" alt="Thank You People Bank and Trust" /></a></p>
+    </div>
+    <div class="four columns">
+    <p class="sponsorlogo"><img src="images/rpp.png" alt="Thank You Rose Property Partners"/></p>
+    </div>
+    <div class="four columns">
+    <p class="sponsorlogo sponsorslogotextonly">Hanenkamp Electric</p>
+    </div>
+    <div class="four columns omega">
+    <p class="sponsorlogo"><img src="images/valvoline.png" alt="Thank You Valvoline" /></p>
+    </div>
+    <br	class="clear" />
+    <div class="eight columns alpha">
+    <p class="sponsorlogo sponsorslogotextonly">Debi's Digital Photography</p>
+    </div>
+    <div class="eight columns omega">
+    <p class="sponsorlogo sponsorslogotextonly"><a href="http://globalsolutonsdev.com" target="_blank">Global Solutions Development</a></p>
+    </div>
+</div>
+<br class="clear" />
   <div class="navfooter">
   <div class="five columns"><span class="navfootertoplevel">About</span>
     <ul>
