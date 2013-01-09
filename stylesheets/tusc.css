@@ -3,6 +3,11 @@ body{
 	background-color: #25136e;
 }
 
+.hidden{
+	display: none;
+
+}
+
 /* **** Header */
 
 .mainlogo{
@@ -48,6 +53,12 @@ body{
 
 }
 
+.navdropdown{
+	background-color: red;
+	
+
+}
+
 
 #navbanner{
 	color: #fff;
@@ -70,6 +81,8 @@ body{
 	color: #eed91e;
 
 }
+
+
 
 
 

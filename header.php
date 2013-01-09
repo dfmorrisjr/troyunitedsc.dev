@@ -79,7 +79,28 @@
       });
 	</script>
     
-    
+    <script>
+/*    
+    	$('#navteams').hover(function({
+    		$('#dropdownteams').removeClass('hidden');
+
+    		});
+    	);
+
+$("button").click(function () {
+  $("p").show("slow");
+});
+    	
+*/
+    	//$('#navteams').hover(alert("hello cleveland");)
+    	
+    	$('#navteams').hover(function() {
+    		//$('#id1, #id3').hide();
+   		 	//$('#dropdownteams').show();
+   		 	alert('Hello Cleveland');
+			});
+
+    </script>
 
 </head>
 <body>
@@ -116,12 +137,25 @@
 		</div>
 	  <div id="navbanner" class="sixteen columns">
 			<div class="three columns"><a href="../join/join.php">Join Our Club</a></div>
-			<div class="three columns"><a href="../teams/teams.php">Teams</a></div>
+			<div class="three columns" id="navteams"><a href="../teams/teams.php">Teams</a></div>
 			<div class="three columns"><a href="../locations/locations.php">Locations</a></div>
 			<div class="three columns"><a href="../programs/programs.php">Programs</a></div>
 			<div class="three columns menuregister"><a href="../register/register.php">Register</a></div>
 			
 			<br class="clear" />
 		</div>
+
+		
+			<div class="hidden sixteen.columns navdropdown" id="dropdownteams">
+				teams go here
+
+			<br class="clear" />	
+			</div>
+
+			
+			
+		
+
+	
 	</header>
     
