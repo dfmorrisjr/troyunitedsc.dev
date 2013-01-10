@@ -54,9 +54,15 @@ body{
 }
 
 .navdropdown{
+	display: none;
 	background-color: red;
-	
-
+	opacity: .95;
+	position: absolute;
+	top: 200px;
+	min-height: 200px;
+	z-index: 999;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
 }
 
 

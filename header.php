@@ -18,6 +18,7 @@
 
 	<!-- CSS
   ================================================== -->
+	  
 	<link rel="stylesheet" href="stylesheets/base.css">
 	<link rel="stylesheet" href="stylesheets/skeleton.css">
 	<link rel="stylesheet" href="stylesheets/layout.css">
@@ -45,12 +46,17 @@
     <!--<script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>-->
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.js"></script>
     <script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
-	<script type="text/javascript" src="scripts/jquery.nivo.slider.js"></script>
     <script type="text/javascript">
     $(window).load(function() {
         $('#slider').nivoSlider();
+		//$("#dropdownteams").hide();
+		//$("#dropdownlocations").hide();
+		//$("#dropdownprograms").hide();
     });
     </script>
+    
+	<script type="text/javascript" src="scripts/jquery.nivo.slider.js"></script>
+    
     
     <script type="text/javascript" src="scripts/jquery.tweet.js"></script>
     <script type='text/javascript'>
@@ -80,26 +86,38 @@
 	</script>
     
     <script>
-/*    
-    	$('#navteams').hover(function({
-    		$('#dropdownteams').removeClass('hidden');
-
-    		});
-    	);
-
-$("button").click(function () {
-  $("p").show("slow");
-});
-    	
-*/
-    	//$('#navteams').hover(alert("hello cleveland");)
-    	
-    	$('#navteams').hover(function() {
-    		//$('#id1, #id3').hide();
-   		 	//$('#dropdownteams').show();
-   		 	alert('Hello Cleveland');
+    $(function () {
+		
+		$("#dropdownteams").hide();
+		$("#dropdownlocations").hide();
+		$("#dropdownprograms").hide();
+		
+    	$("#navteams").mouseover(function() {
+			$("#dropdownteams").show();
+			
 			});
-
+		$("#navteams").mouseout(function() {
+			$("#dropdownteams").hide();
+			
+			});
+		$("#navlocations").mouseover(function() {
+			$("#dropdownlocations").show();
+			
+			});
+		$("#navlocations").mouseout(function() {
+			$("#dropdownlocations").hide();
+			
+			});
+		$("#navprograms").mouseover(function() {
+			$("#dropdownprograms").show();
+			
+			});
+		$("#navprograms").mouseout(function() {
+			$("#dropdownprograms").hide();
+			
+			});
+		
+	});
     </script>
 
 </head>
@@ -137,21 +155,36 @@ $("button").click(function () {
 		</div>
 	  <div id="navbanner" class="sixteen columns">
 			<div class="three columns"><a href="../join/join.php">Join Our Club</a></div>
-			<div class="three columns" id="navteams"><a href="../teams/teams.php">Teams</a></div>
-			<div class="three columns"><a href="../locations/locations.php">Locations</a></div>
-			<div class="three columns"><a href="../programs/programs.php">Programs</a></div>
+			<div class="three columns" ><a href="../teams/teams.php" id="navteams">Teams</a></div>
+			<div class="three columns" id="navlocations"><a href="../locations/locations.php">Locations</a></div>
+			<div class="three columns" id="navprograms"><a href="../programs/programs.php">Programs</a></div>
 			<div class="three columns menuregister"><a href="../register/register.php">Register</a></div>
 			
 			<br class="clear" />
+            
+        
 		</div>
-
+        
+        <div class="hidden navdropdown sixteen columns" id="dropdownprograms">
+             programs go here
+        	<!--<br class="clear" />-->	
+        </div>
+        <div class="hidden navdropdown sixteen columns" id="dropdownteams">
+			teams go here
+			<!--<br class="clear" />-->	
+		</div>
+        <div class="hidden navdropdown sixteen columns" id="dropdownlocations">
+            locations go here
+            <!--<br class="clear" />-->	
+        </div>
+        
 		
-			<div class="hidden sixteen.columns navdropdown" id="dropdownteams">
-				teams go here
-
-			<br class="clear" />	
-			</div>
-
+		
+            
+       
+            
+       
+		
 			
 			
 		
