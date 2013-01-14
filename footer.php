@@ -14,10 +14,8 @@
     <p class="sponsorlogo"><img src="images/valvoline.png" alt="Thank You Valvoline" /></p>
     </div>
     <br	class="clear" />
-    <div class="eight columns alpha">
-    <p class="sponsorlogo sponsorslogotextonly">Debi's Digital Photography</p>
-    </div>
-    <div class="eight columns omega">
+    
+    <div class="sixteen columns">
     <p class="sponsorlogo sponsorslogotextonly"><a href="http://globalsolutonsdev.com" target="_blank">Global Solutions Development</a></p>
     </div>
 </div>

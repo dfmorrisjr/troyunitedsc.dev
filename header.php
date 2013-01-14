@@ -94,28 +94,62 @@
 		
     	$("#navteams").mouseover(function() {
 			$("#dropdownteams").show();
-			
+			$("#dropdownprograms").hide();
+			$("#dropdownlocations").hide();
 			});
+			
 		$("#navteams").mouseout(function() {
 			$("#dropdownteams").hide();
 			
 			});
+		
+		$("#dropdownteams").mouseover(function() {
+			$("#dropdownteams").show();
+		});	
+		
+		$("#dropdownteams").mouseout(function() {
+			$("#dropdownteams").hide();
+		});
+		
+		
 		$("#navlocations").mouseover(function() {
 			$("#dropdownlocations").show();
-			
+			$("#dropdownteams").hide();
+			$("#dropdownprograms").hide();
 			});
+			
 		$("#navlocations").mouseout(function() {
 			$("#dropdownlocations").hide();
 			
 			});
+			
+		$("#dropdownlocations").mouseover(function() {
+			$("#dropdownlocations").show();
+		});
+		
+		$("#dropdownlocations").mouseout(function() {
+			$("#dropdownlocations").hide();
+		});
+			
 		$("#navprograms").mouseover(function() {
 			$("#dropdownprograms").show();
-			
+			$("#dropdownteams").hide();
+			$("#dropdownlocations").hide();
 			});
+			
 		$("#navprograms").mouseout(function() {
 			$("#dropdownprograms").hide();
 			
 			});
+		
+		$("#dropdownprograms").mouseover(function() {
+			$("#dropdownprograms").show();
+		});
+		
+		$("#dropdownprograms").mouseout(function() {
+			$("#dropdownprograms").hide();
+		});
+		
 		
 	});
     </script>
@@ -165,30 +199,35 @@
         
 		</div>
         
-        <div class="hidden navdropdown sixteen columns" id="dropdownprograms">
+        <div class="hidden navdropdownprograms sixteen columns" id="dropdownprograms">
              programs go here
         	<!--<br class="clear" />-->	
         </div>
-        <div class="hidden navdropdown sixteen columns" id="dropdownteams">
-			teams go here
-			<!--<br class="clear" />-->	
+        <div class="hidden navdropdownteams sixteen columns" id="dropdownteams">
+			Girls
+                    <ul>
+                        <li>U8</li>
+                        <li>U11</li>
+                        <li>U12</li>
+                        <li>U13</li>
+                        <li>U14</li>
+                        <li>U16</li>
+                        <li>U18</li>
+                    </ul>
+            <br>
+            Boys
+                    <ul>
+                        <li>U12</li>
+                        <li>U14</li>                
+                    </ul>
+                
+	        
+			
 		</div>
-        <div class="hidden navdropdown sixteen columns" id="dropdownlocations">
+        <div class="hidden navdropdownlocations sixteen columns" id="dropdownlocations">
             locations go here
             <!--<br class="clear" />-->	
         </div>
-        
-		
-		
-            
-       
-            
-       
-		
-			
-			
-		
-
-	
+        	
 	</header>
     
