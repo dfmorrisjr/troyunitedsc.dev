@@ -201,9 +201,10 @@
         
         <div class="hidden navdropdownprograms sixteen columns" id="dropdownprograms">
              programs go here
-        	<!--<br class="clear" />-->	
+        	<img src="images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
         </div>
         <div class="hidden navdropdownteams sixteen columns" id="dropdownteams">
+			<img src="images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
 			Girls
                     <ul>
                         <li>U8</li>
@@ -226,6 +227,7 @@
 		</div>
         <div class="hidden navdropdownlocations sixteen columns" id="dropdownlocations">
             locations go here
+            <img src="images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
             <!--<br class="clear" />-->	
         </div>
         	
