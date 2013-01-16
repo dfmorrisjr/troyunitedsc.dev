@@ -196,40 +196,44 @@
 			
 			<br class="clear" />
             
-        
-		</div>
-        
-        <div class="hidden navdropdownprograms sixteen columns" id="dropdownprograms">
-             programs go here
-        	<img src="images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
-        </div>
-        <div class="hidden navdropdownteams sixteen columns" id="dropdownteams">
-			<img src="images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
-			Girls
-                    <ul>
-                        <li>U8</li>
-                        <li>U11</li>
-                        <li>U12</li>
-                        <li>U13</li>
-                        <li>U14</li>
-                        <li>U16</li>
-                        <li>U18</li>
-                    </ul>
-            <br>
-            Boys
-                    <ul>
-                        <li>U12</li>
-                        <li>U14</li>                
-                    </ul>
+            <div class="hidden navdropdown sixteen columns" id="dropdownteams">
+                <img src="images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
+                Girls
+                        <ul>
+                            <li>U8</li>
+                            <li>U11</li>
+                            <li>U12</li>
+                            <li>U13</li>
+                            <li>U14</li>
+                            <li>U16</li>
+                            <li>U18</li>
+                        </ul>
+                <br>
+                Boys
+                        <ul>
+                            <li>U12</li>
+                            <li>U14</li>                
+                        </ul>
+                    
+                <br class="clear" />
                 
-	        
-			
+            </div>
+            
+            <div class="hidden navdropdown sixteen columns" id="dropdownprograms">
+                 programs go here
+                <img src="images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
+                <br class="clear" />
+            </div>
+       
+            <div class="hidden navdropdown sixteen columns" id="dropdownlocations">
+                locations go here
+                <img src="images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
+                <br class="clear" />	
+            </div>
+            
 		</div>
-        <div class="hidden navdropdownlocations sixteen columns" id="dropdownlocations">
-            locations go here
-            <img src="images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
-            <!--<br class="clear" />-->	
-        </div>
+         
+        
         	
 	</header>
     
