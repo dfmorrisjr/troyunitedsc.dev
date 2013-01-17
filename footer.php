@@ -23,12 +23,11 @@
   <div class="navfooter">
   <div class="five columns"><span class="navfootertoplevel">About</span>
     <ul>
-    	<li>History</li>
-        <li>We Love Soccer</li>
-        <li>Staff</li>
- 		<li>Contact</li>
-        <li>Locations</li>
-        <li>Register</li>       
+    	<!--<li>History</li>-->  
+      <li>Staff</li>
+ 		  <li>Contact</li>
+      <li>Locations</li>
+      <li>Register</li>       
     </ul>
     
     </div>
@@ -57,8 +56,13 @@
     </div>
   <div class="five columns"><span class="navfootertoplevel">Programs</span>
   	<ul>
-    	<li>Development</li>
-        <li>Academy</li>
+    	<li>Programs</li>
+        <ul>
+          <li>Minis</li>
+          <li>Developmental</li>
+          <li>Juniors</li>
+          <li>Seniors</li>
+        </ul>
         <li>Camps and Mini Camps</li>
     </ul>
   </div>

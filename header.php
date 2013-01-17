@@ -176,12 +176,16 @@
 		</div>
         <div class="two columns">
         	<h5 class="tagline" style="text-align:center;">Join our Mailing List</h5>
+        	<a href="http://eepurl.com/kJLaX" target="_blank">
+        		<img src="images/mailinglist_tu35px.png" alt="Join our Mailing List" class="maillisticon"></a>
+        	
         </div>
         <div class="two columns" id="socialmedia">
         	<h5 class="tagline" style="text-align:left">Follow Us</h5>
-            <img src="images/twitter_tu.png" alt="Follow TUSC on Twitter" class="socialicon">
+            <img src="images/twitter_tu.png" alt="Follow TUSC on Twitter" class="socialicon leftmargin15">
             <img src="images/facebook_tu.png" alt="Like us on Facebook" class="socialicon">
-            <img src="images/youtube_tu.png" alt="Find us on YouTube" class="socialicon">
+            <br />
+            <img src="images/youtube_tu.png" alt="Find us on YouTube" class="socialicon leftmargin15">
             <img src="images/flickr_tu.png" alt="Find us on Flickr" class="socialicon">
         </div>
 		<div class="sixteen columns">
@@ -201,9 +205,10 @@
                 Girls
                         <ul>
                             <li>U8</li>
+                            <li>U9</li>
+                            <li>U10</li>
                             <li>U11</li>
                             <li>U12</li>
-                            <li>U13</li>
                             <li>U14</li>
                             <li>U16</li>
                             <li>U18</li>
@@ -211,8 +216,9 @@
                 <br>
                 Boys
                         <ul>
-                            <li>U12</li>
-                            <li>U14</li>                
+                            <li>U10</li>
+                            <li>U11</li>
+                            <li>U16</li>                
                         </ul>
                     
                 <br class="clear" />
@@ -220,7 +226,17 @@
             </div>
             
             <div class="hidden navdropdown sixteen columns" id="dropdownprograms">
-                 programs go here
+                 
+			    	Programs
+			        <ul>
+			          <li>Minis</li>
+			          <li>Developmental</li>
+			          <li>Juniors</li>
+			          <li>Seniors</li>
+			        </ul>
+			        <br />
+			        Camps and Mini Camps
+			    
                 <img src="images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
                 <br class="clear" />
             </div>
