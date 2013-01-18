@@ -76,6 +76,7 @@ body{
 	font-variant: small-caps;
 	font-size: 1.5em;
 	padding-top: 20px;
+	margin-top: -2px;
 	xxmargin-left: 20px;
   /*background: url(images/linear_bg_2.png);
   background-repeat: repeat-x;*/

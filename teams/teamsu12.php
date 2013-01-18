@@ -8,12 +8,14 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Official Website of Troy United Socccer Club - Join Our Club</title>
+	<title>Official Website of Troy United Socccer Club - Teams Girls U12</title>
 
 <?php include('../header.php') ?>
 <!-- Begin Main Content -->
 	<div class="sixteen columns maincontent row">
-		<p>put the Join our club stuff here</p>
+		<p>put the teamy stuff here</p>
 	</div>
 	<br class="clear" />
 <!-- End Main Content -->
+
+<?php include("../footer.php"); ?>
