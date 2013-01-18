@@ -181,8 +181,8 @@
         	
         </div>
         <div class="two columns" id="socialmedia">
-        	<h5 class="tagline" style="text-align:left">Follow Us</h5>
-            <img src="images/twitter_tu.png" alt="Follow TUSC on Twitter" class="socialicon leftmargin15">
+        	<h5 class="tagline topmargin55" style="text-align:left;">Follow Us</h5>
+            <img src="images/twitter_tu.png" alt="Follow TUSC on Twitter" class="socialicon leftmargin15 ">
             <img src="images/facebook_tu.png" alt="Like us on Facebook" class="socialicon">
             <br />
             <img src="images/youtube_tu.png" alt="Find us on YouTube" class="socialicon leftmargin15">
