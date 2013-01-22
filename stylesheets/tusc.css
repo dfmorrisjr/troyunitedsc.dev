@@ -51,6 +51,9 @@ body{
 	margin-top: 55px;	
 }
 
+.topmargin5{
+	margin-top: 5px;	
+}
 .leftpadding10{
 	padding-left: 10px;
 
@@ -453,20 +456,46 @@ section{
 
 /* **** begin teams */
 
+.teamname{
+	text-align: center;	
+}
+
 .coachemailicon{
-	height: 20px;
-	width : 20px;
+	height: 15px;
+	width : 15px;
 	margin-left: 10px;
+	vertical-align: middle;
+}
+
+.coachtitle{
+	margin-top: 5px;
+	font-variant: small-caps;	
 }
 
 .teamphoto{
 	margin-top: 10px;
-	width: 560px;
+	width: 100%;
 }
 
 .teamcalendar{
 	margin-top: 20px;
 
+}
+
+.roster{
+	text-align: center;
+	font-variant: small-caps;	
+}
+
+#teamroster li{
+	width: 50%;
+	float: left;
+	font-variant: normal;
+}
+
+.scheduletitle{
+	text-align: center;
+	font-variant: small-caps;	
 }
 
 /* **** end teams */

@@ -13,67 +13,43 @@
 <?php include('../header.php') ?>
 <!-- Begin Main Content -->
 	<div class="sixteen columns maincontent row">
-		<div class="two columns row alpha" id="teamcoaches">
+		<div class="three columns" id="teamcoaches">
 			<h3 class="teamname">U12</h3>
-			<h6>Coach<a href="mailto:todd@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-			alt="Sent email to Todd" class="coachemailicon" /></a></h6>
-			<h5 class="coachname">Todd Volmert</h5>
-			<h6>Asst Coach<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-			alt="Sent email to Abbie" class="coachemailicon" /></a></h6>
-			<h5 class="asstcoachname">Abbie Albietz</h5>
+			<h6 class="coachtitle">Coach</h6>
+			<h5 class="coachname">Todd Volmert<a href="mailto:todd@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+			alt="Sent email to Todd" class="coachemailicon" /></a></h5>
+			<h6 class="coachtitle">Asst Coach</h6>
+			<h5 class="coachname">Abbie Albietz<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+			alt="Sent email to Abbie" class="coachemailicon" /></a></h5>
 			
 		</div>
-		<div class="ten columns" id="teamphoto">
+		<div class="eight columns alpha omega" id="teamphoto">
 			<img src="/images/toystory.jpg" class="teamphoto" />
 		</div>
-		<div class="four columns omega" id="teamroster">
-			<h5 align="center">Roster</h5>
-			<table>
-				<tr>
-					<td style="width: 50%">Lauryn Morris<td>
-					<td style="width: 50%">Abbie Dew<td>
-				</tr>
-				<tr>
-					<td><td>
-					<td><td>
-				</tr>
-				<tr>
-					<td><td>
-					<td><td>
-				</tr>
-				<tr>
-					<td><td>
-					<td><td>
-				</tr>
-				<tr>
-					<td><td>
-					<td><td>
-				</tr>
-				<tr>
-					<td><td>
-					<td><td>
-				</tr>
-				<tr>
-					<td><td>
-					<td><td>
-				</tr>
-				<tr>
-					<td><td>
-					<td><td>
-				</tr>
-				<tr>
-					<td><td>
-					<td><td>
-				</tr>
-				<tr>
-					<td><td>
-					<td><td>
-				</tr>
-			</table>
+        
+		<div class="five columns omega topmargin5" >
+		        
+			<div class="sectiontitle"><span class="yellowsquare">.</span>
+					Roster
+				</div>
+            <ul id="teamroster">
+            	<li>Lauryn Morris</li>
+                <li>Abbie Dew</li>
+                <li>Morgan Sigmond</li>
+                <li>Maddie Orf</li>
+                <li>Olivia Giesler</li>
+            </ul>
+		
 		</div>
+        
 		<br class="clear" />
-		<div class="sixteen columns teamcalendar" id="teamcalendar">
-			<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=u5o5krervl3i6smfm1vjovqcmc%40group.calendar.google.com&amp;color=%23182C57&amp;src=troyunitedsc%40gmail.com&amp;color=%23182C57&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%23A32929&amp;src=p%23weather%40group.v.calendar.google.com&amp;color=%23856508&amp;ctz=America%2FChicago" style=" border-width:0 " width="920" height="600" frameborder="0" scrolling="no"></iframe>
+        <div class="six columns omega">
+        	<div class="sectiontitle"><span class="yellowsquare">.</span>
+					Schedule
+				</div>
+        </div>
+		<div class="ten columns teamcalendar omega alpha" id="teamcalendar">
+			<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=u5o5krervl3i6smfm1vjovqcmc%40group.calendar.google.com&amp;color=%23182C57&amp;src=troyunitedsc%40gmail.com&amp;color=%23182C57&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%23A32929&amp;src=p%23weather%40group.v.calendar.google.com&amp;color=%23856508&amp;ctz=America%2FChicago" style=" border-width:0 " width="560" height="600" frameborder="0" scrolling="no"></iframe>
 
 		<br class="clear" />
 		</div>
