@@ -36,10 +36,10 @@
 			<section id="contentslider" class="noborder">
 			<div class="slider-wrapper theme-light">
             <div id="slider" class="nivoSlider">
-                 <img src="../images/u11showmegames640x480.jpg" data-thumb="images/u11showmegames640x410.jpg" alt="" title="#htmlcaption0"/>
-                <img src="../images/u12toddabbiecoachingemup640x480.jpg" data-thumb="images/u12toddabbiecoachingemup640x480.jpg" alt="" title="#htmlcaption1" />
-                <img src="../images/2012summercamp640x480.jpg" data-thumb="images/2012summercamp640x480.jpg" alt="" title="#htmlcaption2" />
-               <img src="../images/u8seasonopener640x480.jpg" data-thumb="images/u8seasonopener640x480.jpg" alt="" title="#htmlcaption3" />
+                 <img src="/images/u11showmegames640x480.jpg" data-thumb="/images/u11showmegames640x410.jpg" alt="" title="#htmlcaption0"/>
+                <img src="/images/u12toddabbiecoachingemup640x480.jpg" data-thumb="/images/u12toddabbiecoachingemup640x480.jpg" alt="" title="#htmlcaption1" />
+                <img src="/images/2012summercamp640x480.jpg" data-thumb="/images/2012summercamp640x480.jpg" alt="" title="#htmlcaption2" />
+               <img src="/images/u8seasonopener640x480.jpg" data-thumb="/images/u8seasonopener640x480.jpg" alt="" title="#htmlcaption3" />
                
             </div>
             <div id="htmlcaption0" class="nivo-html-caption">

@@ -34,7 +34,12 @@ body{
 	width: 25px;
 }
 
-
+.mailinglist{
+	color: #fff;
+	font-variant: small-caps;
+	margin-top: 40px;
+	text-align: center;
+}
 
 .leftmargin15{
 	margin-left: 15px;
@@ -52,7 +57,7 @@ body{
 }
 
 .maillisticon{
-	margin-left: 35px;
+	margin-leftxxx: 20px;
 	margin-top: 10px;
 
 }

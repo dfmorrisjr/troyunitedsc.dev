@@ -24,7 +24,7 @@
 			
 		</div>
 		<div class="ten columns" id="teamphoto">
-			<img src="../images/toystory.jpg" class="teamphoto" />
+			<img src="/images/toystory.jpg" class="teamphoto" />
 		</div>
 		<div class="four columns omega" id="teamroster">
 			<h5 align="center">Roster</h5>

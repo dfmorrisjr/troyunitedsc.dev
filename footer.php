@@ -2,16 +2,16 @@
 <div class="sixteen columns sponsors">
 	
 	<div class="four columns alpha">
-    <p class="sponsorlogo"><a href="http://pbt.net" target="_blank"><img src="../images/pbt.png" alt="Thank You People Bank and Trust" /></a></p>
+    <p class="sponsorlogo"><a href="http://pbt.net" target="_blank"><img src="/images/pbt.png" alt="Thank You People Bank and Trust" /></a></p>
     </div>
     <div class="four columns">
-    <p class="sponsorlogo"><img src="../images/rpp.png" alt="Thank You Rose Property Partners"/></p>
+    <p class="sponsorlogo"><img src="/images/rpp.png" alt="Thank You Rose Property Partners"/></p>
     </div>
     <div class="four columns">
     <p class="sponsorlogo sponsorslogotextonly">Hanenkamp Electric</p>
     </div>
     <div class="four columns omega">
-    <p class="sponsorlogo"><img src="../images/valvoline.png" alt="Thank You Valvoline" /></p>
+    <p class="sponsorlogo"><img src="/images/valvoline.png" alt="Thank You Valvoline" /></p>
     </div>
     <br	class="clear" />
     
