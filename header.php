@@ -157,11 +157,11 @@
 	<div class="container">
 	<header>
 		<div class="two columns alpha mainlogo">
-			<img src="/images/tuscshieldmainlogo.png">
+			<a href="/index.php"><img src="/images/tuscshieldmainlogo.png"></a>
 		</div>
 		<div class="ten columns">
-			<h4 class="tagline">Official Website</h5>
-			<h1 class="remove-bottom maintitle">Troy United Soccer Club</h1>
+			<h4 class="tagline"><a href="/index.php">Official Website</a></h5>
+			<h1 class="remove-bottom maintitle"><a href="/index.php">Troy United Soccer Club</a></h1>
 			<br class="clear" />
 		</div>
         <div class="two columns mailinglist">

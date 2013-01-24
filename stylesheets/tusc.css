@@ -18,15 +18,24 @@ body{
 .maintitle
 {
 	color: #fff;
-	
 	font-variant: small-caps;
 
+}
+
+.maintitle a{
+	text-decoration:none;
+	color: #fff;
 }
 
 .tagline{
 	color: #fff;
 	font-variant: small-caps;
 	margin-top: 40px;
+}
+
+.tagline a{
+	text-decoration:none;
+	color: #fff;	
 }
 
 .socialicon{
@@ -461,8 +470,8 @@ section{
 }
 
 .coachemailicon{
-	height: 15px;
-	width : 15px;
+	height: 18px;
+	width : 18px;
 	margin-left: 10px;
 	vertical-align: middle;
 }
@@ -487,15 +496,27 @@ section{
 	font-variant: small-caps;	
 }
 
+#teamroster ul{
+	xxxlist-style-image:url(/images/soccer_16x16.gif);
+	margin-top: 5px;
+}
+
 #teamroster li{
 	width: 50%;
 	float: left;
 	font-variant: normal;
+	font-size: .75em;
+	
 }
 
-.scheduletitle{
+.xxxscheduletitle{
 	text-align: center;
 	font-variant: small-caps;	
 }
+
+.scheduledate{
+	font-weight: bold;	
+}
+
 
 /* **** end teams */
