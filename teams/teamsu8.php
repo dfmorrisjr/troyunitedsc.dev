@@ -8,23 +8,24 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Official Website of Troy United Socccer Club - Teams Girls U12</title>
+	<title>Official Website of Troy United Socccer Club - Teams Girls U8</title>
 
 <?php include('../header.php') ?>
 <!-- Begin Main Content -->
 	<div class="sixteen columns maincontent row">
 		<div class="three columns" id="teamcoaches">
-			<h3 class="teamname">U12</h3>
+			<h3 class="teamname">U8</h3>
 			<h6 class="coachtitle">Coach</h6>
-			<h5 class="coachname">Todd Volmert<a href="mailto:todd@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-			alt="Sent email to Todd" class="coachemailicon" /></a></h5>
-			<h6 class="coachtitle">Asst Coach</h6>
+			<h5 class="coachname">Daniel Olstad<a href="mailto:dolstad@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+			alt="Sent email to Daniel" class="coachemailicon" /></a></h5>
+			<!--
+            <h6 class="coachtitle">Asst Coach</h6>
 			<h5 class="coachname">Abbie Albietz<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Abbie" class="coachemailicon" /></a></h5>
-			
+			-->
 		</div>
 		<div class="nine columns alpha omega" id="teamphoto">
-			<img src="/images/u12.jpg" class="teamphoto" />
+			<img src="/images/soccerballreplaceteamphoto.jpg" class="teamphoto" />
 		</div>
         
 		<section class="four columns omega topmargin5 noborder" id="teamroster">
@@ -33,7 +34,7 @@
 					Roster
 				</div>
             <ul>
-            	<li>Abi Dew</li>
+            	<!--<li>Abi Dew</li>
             	<li>Abygail Ruether</li>
                 <li>Ally Renaud</li>
                 <li>Ayamel Coyotl</li>
@@ -51,7 +52,7 @@
                 <li>Sarah Morice</li>
                 <li>Sarah Schultz</li>
                 <li>Trinity Valli</li>
-            </ul>
+-->            </ul>
 		
 		</section>
         
@@ -84,12 +85,12 @@
                 </li>
                 
              </ul> -->
-        When the schedule becomes available, click image below for current schedule	
+        When the schedule becomes available, click image below for current schedule		
         <img src="/images/slysaschedule.jpg" />
                     
         </section>
 		<div class="ten columns teamcalendar omega alpha" id="teamcalendar">
-			<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=u5o5krervl3i6smfm1vjovqcmc%40group.calendar.google.com&amp;color=%23182C57&amp;src=troyunitedsc%40gmail.com&amp;color=%23182C57&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%23A32929&amp;src=p%23weather%40group.v.calendar.google.com&amp;color=%23856508&amp;ctz=America%2FChicago" style=" border-width:0 " width="560" height="600" frameborder="0" scrolling="no"></iframe>
+			<!--<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=u5o5krervl3i6smfm1vjovqcmc%40group.calendar.google.com&amp;color=%23182C57&amp;src=troyunitedsc%40gmail.com&amp;color=%23182C57&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%23A32929&amp;src=p%23weather%40group.v.calendar.google.com&amp;color=%23856508&amp;ctz=America%2FChicago" style=" border-width:0 " width="560" height="600" frameborder="0" scrolling="no"></iframe>-->
 
 		<br class="clear" />
 		</div>

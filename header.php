@@ -79,7 +79,7 @@
     $(function () {
 		
 		$("#dropdownteams").hide();
-		$("#dropdownlocations").hide();
+		//$("#dropdownlocations").hide();
 		$("#dropdownprograms").hide();
 		
     	$("#navteams").mouseover(function() {
@@ -101,6 +101,7 @@
 			$("#dropdownteams").hide();
 		});
 		
+		/*
 		
 		$("#navlocations").mouseover(function() {
 			$("#dropdownlocations").show();
@@ -121,6 +122,7 @@
 			$("#dropdownlocations").hide();
 		});
 			
+		*/
 		$("#navprograms").mouseover(function() {
 			$("#dropdownprograms").show();
 			$("#dropdownteams").hide();
@@ -183,9 +185,9 @@
 		</div>
 	  <div id="navbanner" class="sixteen columns">
 			<div class="three columns"><a href="/join/join.php">Join Our Club</a></div>
-			<div class="three columns" ><a href="/teams/teams.php" id="navteams">Teams</a></div>
+			<div class="three columns" id="navteams"><a href="/teams/teams.php" >Teams</a></div>
+            <div class="three columns" id="navprograms"><a href="/programs/programs.php">Programs</a></div>
 			<div class="three columns" id="navlocations"><a href="/locations/locations.php">Locations</a></div>
-			<div class="three columns" id="navprograms"><a href="/programs/programs.php">Programs</a></div>
 			<div class="three columns menuregister"><a href="/register/register.php">Register</a></div>
 			
 			<br class="clear" />
@@ -194,8 +196,8 @@
                 
                 Girls
                         <ul>
-                            <li>U8</li>
-                            <li>U9</li>
+                            <li><a href="/teams/teamsu8.php">U8</a></li>
+                            <li><a href="/teams/teamsu9.php">U9</a></li>
                             <li>U10</li>
                             <li>U11</li>
                             <li><a href="/teams/teamsu12.php">U12</a></li>
@@ -231,11 +233,13 @@
                 <br class="clear" />
             </div>
        
+       		<!--
             <div class="hidden navdropdown sixteen columns" id="dropdownlocations">
                 locations go here
                 <img src="/images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
                 <br class="clear" />	
             </div>
+            -->
             
 		</div>
          
