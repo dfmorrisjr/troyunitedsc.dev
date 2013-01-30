@@ -177,7 +177,7 @@
             <img src="/images/twitter_tu.png" alt="Follow TUSC on Twitter" class="socialicon leftmargin15 ">
             <img src="/images/facebook_tu.png" alt="Like us on Facebook" class="socialicon">
             <br />
-            <img src="/images/youtube_tu.png" alt="Find us on YouTube" class="socialicon leftmargin15">
+            <img src="/images/youtubegold_tu.png" alt="Find us on YouTube" class="socialicon leftmargin15">
             <img src="/images/flickr_tu.png" alt="Find us on Flickr" class="socialicon">
         </div>
 		<div class="sixteen columns">
@@ -198,12 +198,12 @@
                         <ul>
                             <li><a href="/teams/teamsu8.php">U8</a></li>
                             <li><a href="/teams/teamsu9.php">U9</a></li>
-                            <li>U10</li>
-                            <li>U11</li>
+                            <li><a href="/teams/teamsu10.php">U10</a></li>
+                            <li><a href="/teams/teamsu11.php">U11</a></li>
                             <li><a href="/teams/teamsu12.php">U12</a></li>
-                            <li>U14</li>
-                            <li>U16</li>
-                            <li>U18</li>
+                            <li><a href="/teams/teamsu14.php">U14</a></li>
+                            <li><a href="/teams/teamsu16.php">U16</a></li>
+                            <!--<li>U18</li>-->
                         </ul>
                 <br>
                 Boys
