@@ -203,7 +203,7 @@
                             <li><a href="/teams/teamsu12.php">U12</a></li>
                             <li><a href="/teams/teamsu14.php">U14</a></li>
                             <li><a href="/teams/teamsu16.php">U16</a></li>
-                            <!--<li>U18</li>-->
+                            <li><a href="/teams/teamsu18.php">U18</a></li>
                         </ul>
                 <br>
                 Boys
