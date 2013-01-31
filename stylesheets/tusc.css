@@ -428,10 +428,21 @@ section{
 	margin-left: 10px;	
 }
 
+.navfooter a{
+	text-decoration:none;
+	color: #fff;	
+}
+
+.navfooter a:hover{
+	color: #eed91e;	
+}
+
 .footer{
 	text-align: right;
 	color: white;
 }
+
+
 
 .footerClubTitle{
 	font-variant: small-caps;
@@ -460,6 +471,7 @@ section{
 	text-decoration: none;
 	color: #eed91e;	
 }
+
 
 /* **** end Footer */
 

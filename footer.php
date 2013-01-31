@@ -33,7 +33,7 @@
     </div>
     <div class="five columns"><span class="navfootertoplevel">Teams</span>
   		<ul>
-        	<li>Girls
+        	<li><a href="/teams/teams.php">Girls</a>
                 <!--<ul>
                     <li>U8</li>
                     <li>U11</li>
@@ -46,7 +46,7 @@
             </li>
        </ul>
        <ul>
-            <li>Boys
+            <li><a href="/teams/teams.php#boysteams">Boys</a>
             	<!--<ul>
 					<li>U12</li>
                     <li>U14</li>                

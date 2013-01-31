@@ -194,7 +194,7 @@
             
             <div class="hidden navdropdown sixteen columns" id="dropdownteams">
                 
-                Girls
+                <a href="/teams/teams.php">Girls</a>
                         <ul>
                             <li><a href="/teams/teamsu8.php">U8</a></li>
                             <li><a href="/teams/teamsu9.php">U9</a></li>
@@ -206,11 +206,10 @@
                             <li><a href="/teams/teamsu18.php">U18</a></li>
                         </ul>
                 <br>
-                Boys
+                <a href="/teams/teams.php#boysteams">Boys</a>
                         <ul>
-                            <li>U10</li>
-                            <li>U11</li>
-                            <li>U16</li>                
+                            <li><a href="/teams/teamsu10boys.php">U10</a></li>
+                            <li><a href="/teams/teamsu11boys.php">U11</a></li>              
                         </ul>
                 <img src="/images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
                 <br class="clear" />
