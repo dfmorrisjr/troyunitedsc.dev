@@ -532,3 +532,18 @@ section{
 
 
 /* **** end teams */
+
+/* **** Begin Programs */
+
+.programsdescription{
+		
+}
+
+.programslist{
+	margin-top: 15px;
+}
+
+.programslist li{
+	margin-left: 10px;
+	list-style: circle;	
+}

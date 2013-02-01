@@ -218,7 +218,7 @@
             
             <div class="hidden navdropdown sixteen columns" id="dropdownprograms">
                  
-			    	Programs
+			    	<a href="/programs/programs.php">Programs</a>
 			        <ul>
 			          <li>Minis</li>
 			          <li>Developmental</li>
@@ -226,7 +226,7 @@
 			          <li>Seniors</li>
 			        </ul>
 			        <br />
-			        Camps and Mini Camps
+			        <a href="/programs/camps.php">Camps and Mini Camps</a>
 			    
                 <img src="/images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
                 <br class="clear" />

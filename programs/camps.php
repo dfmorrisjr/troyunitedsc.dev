@@ -13,7 +13,14 @@
 <?php include('../header.php') ?>
 <!-- Begin Main Content -->
 	<div class="sixteen columns maincontent row">
-		<p>put the campy stuff here</p>
+		<section>
+        	<div class="sectiontitle"><span class="yellowsquare">.</span>
+                        Camps and Mini Camps
+        </div>
+       	<h4>Details on 2013 Camps and Mini Camps are coming soon.  Sign up for our mailing list to be one of the first to know!</h4>
+       
+        </section>
 	</div>
 	<br class="clear" />
 <!-- End Main Content -->
+<?php include("../footer.php"); ?>

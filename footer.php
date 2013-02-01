@@ -56,14 +56,14 @@
     </div>
   <div class="five columns"><span class="navfootertoplevel">Programs</span>
   	<ul>
-    	<li>Programs</li>
+    	<li><a href="/programs/programs.php">Programs</a></li>
         <ul>
           <li>Minis</li>
           <li>Developmental</li>
           <li>Juniors</li>
           <li>Seniors</li>
         </ul>
-        <li>Camps and Mini Camps</li>
+        <li><a href="/programs/camps.php">Camps and Mini Camps</a></li>
     </ul>
   </div>
   
