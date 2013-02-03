@@ -33,21 +33,21 @@
 					Roster
 				</div>
             <ul>
-            	<li>Aaron Vaughn</li>
-                <li>Bailey West</li>
-            	<li>Braden Nett</li>
-                <li>Carson Lebegue</li>
-                <li>Joshua Decamp</li>
-                <li>Landon Boothe</li>
-                <li>Luis Capilla</li>
-                <li>Luke Gambill</li>
-                <li>Malikai Vacha</li>
-                <li>Mathew McLaughlin</li>
-                <li>Maurice Morgan</li>
-                <li>Micah McMenamy</li>
-                <li>TJ Balducci</li>
-                <li>Tyler Mullen</li>
-                <li>Wyatt Chaffin</li>
+            	<li>Aaron</li>
+                <li>Bailey</li>
+            	<li>Braden</li>
+                <li>Carson</li>
+                <li>Joshua</li>
+                <li>Landon</li>
+                <li>Luis</li>
+                <li>Luke</li>
+                <li>Malikai</li>
+                <li>Mathew</li>
+                <li>Maurice</li>
+                <li>Micah</li>
+                <li>TJ</li>
+                <li>Tyler</li>
+                <li>Wyatt</li>
             </ul>
 		
 		</section>

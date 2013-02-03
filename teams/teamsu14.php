@@ -33,21 +33,21 @@
 					Roster
 				</div>
             <ul>
-            	<li>Alex Plack</li>
-                <li>Alyssa Woemmel</li>
-                <li>Anika Kallash</li>
-                <li>Ashley Everingham</li>
-            	<li>Catherine Forbeck</li>
-                <li>Calista Kuberski</li>
-                <li>Elly Boothe</li>
-            	<li>Emily Martin</li>
-                <li>Jasimine Gallegos</li>
-                <li>Julia White</li>
-                <li>Krystal Kohenskey</li>
-                <li>Madeline Mueller</li>
-                <li>Rachel Hughes</li>
-                <li>Sammy Woemmel</li>
-                <li>Tori Miller</li>
+            	<li>Alex</li>
+                <li>Alyssa</li>
+                <li>Anika</li>
+                <li>Ashley</li>
+            	<li>Catherine</li>
+                <li>Calista</li>
+                <li>Elly</li>
+            	<li>Emily</li>
+                <li>Jasimine</li>
+                <li>Julia</li>
+                <li>Krystal</li>
+                <li>Madeline</li>
+                <li>Rachel</li>
+                <li>Sammy</li>
+                <li>Tori</li>
             </ul>
 		
 		</section>

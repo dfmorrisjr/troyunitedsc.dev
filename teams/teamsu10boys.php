@@ -33,16 +33,16 @@
 					Roster
 				</div>
             <ul>
-            	<li>Austin Aaron</li>
-                <li>Caleb Jacobs</li>
-            	<li>Chase Colbert</li>
-                <li>Dalton Reece</li>
-                <li>Dillon Colbert</li>
-                <li>Drake Strassner</li>
-                <li>Dylan Schwartz</li>
-                <li>EthanSchmitt</li>
-                <li>Nathan Ryan</li>
-                <li>Thomas Aaron</li>
+            	<li>Austin</li>
+                <li>Caleb</li>
+            	<li>Chase</li>
+                <li>Dalton</li>
+                <li>Dillon</li>
+                <li>Drake</li>
+                <li>Dylan</li>
+                <li>Ethan</li>
+                <li>Nathan</li>
+                <li>Thomas</li>
             </ul>
 		
 		</section>

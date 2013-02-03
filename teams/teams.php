@@ -21,7 +21,7 @@
         </div>
         <article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	U8
+             	<a href="/teams/teamsu8.php">U8</a>
              </div>
              <div class="three columns" id="teamcoaches">
                 <h6 class="coachtitle">Coach</h6>
@@ -34,13 +34,14 @@
                 -->
 			</div>
             <div class="eight columns offset-by-three">
-            	<img src="/images/soccerballreplaceteamphoto.jpg" alt="U8 Photo comming soon" class="topmargin5" style="text-align: right;">
+            	<a href="/teams/teamsu8.php"><img src="/images/soccerballreplaceteamphoto.jpg" alt="U8 Photo comming soon" class="topmargin5" style="text-align: right;"></a>
             </div>
             <br class="clear" />
+            
         </article>
         <article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	U9
+             	<a href="/teams/teamsu9.php">U9</a>
              </div>
              <div class="three columns" id="teamcoaches">
                 <h6 class="coachtitle">Coach</h6>
@@ -53,13 +54,13 @@
                 -->
 			</div>
             <div class="eight columns offset-by-three">
-            	<img src="/images/u9.jpg" alt="U9" class="topmargin5" style="text-align: right;">
+            	<a href="/teams/teamsu9.php"><img src="/images/u9.jpg" alt="U9" class="topmargin5" style="text-align: right;"></a>
             </div>
             <br class="clear" />
         </article>
         <article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	U10
+             	<a href="/teams/teamsu10.php">U10</a>
              </div>
             <div class="three columns" id="teamcoaches">
                 <h6 class="coachtitle">Coach</h6>
@@ -70,13 +71,13 @@
                 alt="Sent email to Abbie" class="coachemailicon" /></a></h5>
 			</div>
             <div class="eight columns offset-by-three">
-            	<img src="/images/soccerballreplaceteamphoto.jpg" alt="U10 Picture coming soon" class="topmargin5" style="text-align: right;">
+            	<a href="/teams/teamsu10.php"><img src="/images/soccerballreplaceteamphoto.jpg" alt="U10 Picture coming soon" class="topmargin5" style="text-align: right;"></a>
             </div>
             <br class="clear" />
         </article>
         <article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	U11
+             	<a href="/teams/teamsu11.php">U11</a>
              </div>
         	<div class="three columns" id="teamcoaches">
                 <h6 class="coachtitle">Coach</h6>
@@ -87,13 +88,13 @@
                 alt="Sent email to Abbie" class="coachemailicon" /></a></h5>
 			</div>
             <div class="eight columns offset-by-three">
-            	<img src="/images/u11.jpg" alt="U11" class="topmargin5" style="text-align: right;">
+            	<a href="/teams/teamsu11.php"><img src="/images/u11.jpg" alt="U11" class="topmargin5" style="text-align: right;"></a>
             </div>
             <br class="clear" />
         </article>
         <article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	U12
+             	<a href="/teams/teamsu12.php">U12</a>
              </div>
         	<div class="three columns" id="teamcoaches">
                 <h6 class="coachtitle">Coach</h6>
@@ -104,13 +105,13 @@
                 alt="Sent email to Abbie" class="coachemailicon" /></a></h5>
 			</div>
             <div class="eight columns offset-by-three">
-            	<img src="/images/u12.jpg" alt="U12" class="topmargin5" style="text-align: right;">
+            	<a href="/teams/teamsu12.php"><img src="/images/u12.jpg" alt="U12" class="topmargin5" style="text-align: right;"></a>
             </div>
             <br class="clear" />
         </article>
         <article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	U14
+             	<a href="/teams/teamsu14.php">U14</a>
              </div>
         	<div class="three columns" id="teamcoaches">
                 <h6 class="coachtitle">Coach</h6>
@@ -121,13 +122,13 @@
                 alt="Sent email to Pat" class="coachemailicon" /></a></h5>
 			</div>
             <div class="eight columns offset-by-three">
-            	<img src="/images/u14.jpg" alt="U14" class="topmargin5" style="text-align: right;">
+            	<a href="/teams/teamsu14.php"><img src="/images/u14.jpg" alt="U14" class="topmargin5" style="text-align: right;"></a>
             </div>
             <br class="clear" />
         </article>
         <article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	U16
+             	<a href="/teams/teamsu16.php">U16</a>
              </div>
             <div class="three columns" id="teamcoaches">
                 <h6 class="coachtitle">Coach</h6>
@@ -135,13 +136,13 @@
                 alt="Sent email to Jimmy" class="coachemailicon" /></a></h5>
 			</div>
             <div class="eight columns offset-by-three">
-            	<img src="/images/u16.jpg" alt="U16" class="topmargin5" style="text-align: right;">
+            	<a href="/teams/teamsu16.php"><img src="/images/u16.jpg" alt="U16" class="topmargin5" style="text-align: right;"></a>
             </div>
             <br class="clear" />
         </article>
         <article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	U18
+             	<a href="/teams/teamsu18.php">U18</a>
              </div>
             <div class="three columns" id="teamcoaches">
                 <h6 class="coachtitle">Coach</h6>
@@ -149,7 +150,7 @@
                 alt="Sent email to Greg" class="coachemailicon" /></a></h5>
 			</div>
             <div class="eight columns offset-by-three">
-            	<img src="/images/soccerballreplaceteamphoto.jpg" alt="U18 Photo comming soon" class="topmargin5" style="text-align: right;">
+            	<a href="/teams/teamsu18.php"><img src="/images/soccerballreplaceteamphoto.jpg" alt="U18 Photo comming soon" class="topmargin5" style="text-align: right;"></a>
             </div>
             <br class="clear" />
         </article>
@@ -160,7 +161,7 @@
         </div>
         <article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	U10
+             	<a href="/teams/teamsu10boys.php">U10</a>
              </div>
             <div class="three columns" id="teamcoaches">
                 <h6 class="coachtitle">Coach</h6>
@@ -168,13 +169,13 @@
                 alt="Sent email to Greg" class="coachemailicon" /></a></h5>
 			</div>
             <div class="eight columns offset-by-three">
-            	<img src="/images/soccerballreplaceteamphoto.jpg" alt="U10 Photo comming soon" class="topmargin5" style="text-align: right;">
+            	<a href="/teams/teamsu10boys.php"><img src="/images/soccerballreplaceteamphoto.jpg" alt="U10 Photo comming soon" class="topmargin5" style="text-align: right;"></a>
             </div>
             <br class="clear" />
         </article>
         <article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	U11
+             	<a href="/teams/teamsu11boys.php">U11</a>
              </div>
             <div class="three columns" id="teamcoaches">
                 <h6 class="coachtitle">Coach</h6>
@@ -185,7 +186,7 @@
                 alt="Sent email to Buddy" class="coachemailicon" /></a></h5>
 			</div>
             <div class="eight columns offset-by-three">
-            	<img src="/images/u11boys.jpg" alt="U11" class="topmargin5" style="text-align: right;">
+            	<a href="/teams/teamsu11boys.php"><img src="/images/u11boys.jpg" alt="U11" class="topmargin5" style="text-align: right;"></a>
             </div>
             <br class="clear" />
         </article>

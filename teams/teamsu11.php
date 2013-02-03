@@ -33,20 +33,20 @@
 					Roster
 				</div>
             <ul>
-            	<li>Abby Meyer</li>
-            	<li>Alayna Garnto</li>
-                <li>Alexia Vollmer</li>
-                <li>Alexis Howard</li>
-                <li>Erin Orvick</li>
-                <li>Faith Robinson</li>
-                <li>Jenna Rogers</li>
-                <li>Jordy Seth</li>
-                <li>Mackenzie Caldwell</li>
-                <li>Madie Eads</li>
-            	<li>Morgan Crooks</li>
-                <li>Reyce Reller</li>
-                <li>Shelby Volmert</li>
-                <li>Siera Zemek</li>
+            	<li>Abby</li>
+            	<li>Alayna</li>
+                <li>Alexia</li>
+                <li>Alexis</li>
+                <li>Erin</li>
+                <li>Faith</li>
+                <li>Jenna</li>
+                <li>Jordy</li>
+                <li>Mackenzie</li>
+                <li>Madie</li>
+            	<li>Morgan</li>
+                <li>Reyce</li>
+                <li>Shelby</li>
+                <li>Siera</li>
             </ul>
 		
 		</section>

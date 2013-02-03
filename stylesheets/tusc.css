@@ -349,6 +349,11 @@ article{
 	font-variant: small-caps;
 }
 
+.sectiontitle a{
+	text-decoration: none;
+	color: #fff;	
+}
+
 .yellowsquare{
 	background-color: #eed91e;
 	width: 30px;

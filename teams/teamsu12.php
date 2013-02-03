@@ -16,12 +16,11 @@
 		<div class="three columns" id="teamcoaches">
 			<h3 class="teamname">U12</h3>
 			<h6 class="coachtitle">Coach</h6>
-			<h5 class="coachname">Todd Volmert<a href="mailto:todd@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-			alt="Sent email to Todd" class="coachemailicon" /></a></h5>
-			<h6 class="coachtitle">Asst Coach</h6>
 			<h5 class="coachname">Abbie Albietz<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Abbie" class="coachemailicon" /></a></h5>
-			
+			<h6 class="coachtitle">Asst Coach</h6>
+			<h5 class="coachname">Todd Volmert<a href="mailto:todd@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+			alt="Sent email to Todd" class="coachemailicon" /></a></h5>
 		</div>
 		<div class="nine columns alpha omega" id="teamphoto">
 			<img src="/images/u12.jpg" class="teamphoto" />
@@ -33,24 +32,23 @@
 					Roster
 				</div>
             <ul>
-            	<li>Abi Dew</li>
-            	<li>Abygail Ruether</li>
-                <li>Ally Renaud</li>
-                <li>Ayamel Coyotl</li>
-                <li>Carley Martin</li>
-                <li>Emily Ruck</li>
-                <li>Emma Armour</li>
-                <li>Haley Hall</li>
-                <li>Lauryn Morris</li>
-                <li>Lisa McCoy</li>
-                <li>Madison Orf</li>
-                <li>Morgan Sigmond</li>
-				<li>Olivia Giesler</li>
-                <li>Peyton Utterback</li>
-                <li>Rynn Hubbard</li>
-                <li>Sarah Morice</li>
-                <li>Sarah Schultz</li>
-                <li>Trinity Valli</li>
+            	<li>Abi</li>
+            	<li>Abygail</li>
+                <li>Ally</li>
+                <li>Ayamel</li>
+                <li>Carley</li>
+                <li>Emily</li>
+                <li>Emma</li>
+                <li>Haley</li>
+                <li>Lauryn</li>
+                <li>Lisa</li>
+                <li>Madison</li>
+                <li>Morgan</li>
+				<li>Olivia</li>
+                <li>Peyton</li>
+                <li>Sarah M.</li>
+                <li>Sarah S.</li>
+                <li>Trinity</li>
             </ul>
 		
 		</section>

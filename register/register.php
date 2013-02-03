@@ -31,5 +31,8 @@ try { z7x3p3 = new WufooForm();z7x3p3.initialize(options);z7x3p3.display(); } ca
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
 	</div>
-	<br class="clear" />
+
+<br class="clear" />
 <!-- End Main Content -->
+
+<?php include("footer.php"); ?>

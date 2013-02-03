@@ -32,20 +32,20 @@
 					Roster
 				</div>
             <ul>
-            	<li>Alexa Perryman</li>
-            	<li>Alisha Volmert</li>
-                <li>Allyse Pagano</li>
-                <li>Baily Wood</li>
-                <li>Brooke Mehrle</li>
-                <li>Brooke Colbert</li>
-                <li>Bri	Johnson</li>
-                <li>Cassidy Larson</li>
-                <li>Kayla Hughes</li>
-                <li>Kerry Kersting</li>
-                <li>Paige Utterback</li>
-                <li>Theresa	Sheffer</li>
-                <li>Tiffany	Hazelwonder</li>
-                <li>Tori Rose</li>               
+            	<li>Alexa</li>
+            	<li>Alisha</li>
+                <li>Allyse</li>
+                <li>Baily</li>
+                <li>Brooke M.</li>
+                <li>Brooke C.</li>
+                <li>Bri</li>
+                <li>Cassidy</li>
+                <li>Kayla</li>
+                <li>Kerry</li>
+                <li>Paige</li>
+                <li>Theresa</li>
+                <li>Tiffany</li>
+                <li>Tori</li>               
             </ul>
 		
 		</section>

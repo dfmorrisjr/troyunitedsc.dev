@@ -26,8 +26,8 @@
     	<!--<li>History</li>-->  
       <li>Staff</li>
  		  <li>Contact</li>
-      <li>Locations</li>
-      <li>Register</li>       
+      <li><a href="/locations/locations.php">Locations</a></li>
+      <li><a href="/register/register.php">Register</a></li>
     </ul>
     
     </div>
@@ -57,12 +57,12 @@
   <div class="five columns"><span class="navfootertoplevel">Programs</span>
   	<ul>
     	<li><a href="/programs/programs.php">Programs</a></li>
-        <ul>
+        <!--<ul>
           <li>Minis</li>
           <li>Developmental</li>
           <li>Juniors</li>
           <li>Seniors</li>
-        </ul>
+        </ul>-->
         <li><a href="/programs/camps.php">Camps and Mini Camps</a></li>
     </ul>
   </div>

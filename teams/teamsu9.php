@@ -34,17 +34,17 @@
 					Roster
 				</div>
             <ul>
-            	<li>Abigale Jones</li>
-                <li>Alyson Juarez</li>
-                <li>Bailey Vermilye</li>
-                <li>Emily Forbeck</li>
-                <li>Emily Johnson</li>
-                <li>Grace Justus</li>
-                <li>Gracie Nealy </li>
-                <li>Hadleigh Iborg</li>               
-                <li>Melody Fanning</li>              
-                <li>Nayda Gaspariano</li>
-                <li>Rylee McDowell</li>
+            	<li>Abigale</li>
+                <li>Alyson</li>
+                <li>Bailey</li>
+                <li>Emily F.</li>
+                <li>Emily J.</li>
+                <li>Grace</li>
+                <li>Gracie</li>
+                <li>Hadleigh</li>               
+                <li>Melody</li>              
+                <li>Nayda</li>
+                <li>Rylee</li>
             </ul>
 		</section>
         

@@ -34,32 +34,32 @@
 					Roster
 				</div>
             <ul>
-            	<li>Alissa Albietz</li>
-            	<li>Allie Heinz</li>
-            	<li>Ambria Whitlock</li>
-                <li>Amber Mrazik</li>
-                <li>Amy Keller</li>
-                <li>Bailey Wood</li>
-                <li>Baylee Reller</li>
-                <li>Becca Ritter</li>
-                <li>Breanna Evans</li>
-                <li>Caitlynn Metze</li>
-                <li>Courtney Vanzant</li>
-                <li>Hailee Nebel</li>
-                <li>Hannah Lehmkuhl</li>
-                <li>Hannah McCoy</li>
-                <li>Kirsten White</li>
-                <li>Kate Brazzle</li>
-                <li>Katie White</li>
-                <li>Kylie Thwing</li>
-                <li>Lexy Roberts</li>
-                <li>Maddy Fanning</li>
-                <li>Madison Walsh</li>
-                <li>Michelle Raines</li>
-                <li>Olivia Lang</li>
-                <li>Tannah Rose</li>
-                <li>Taylor Nealy</li>
-                <li>Tori Ditter</li>
+            	<li>Alissa</li>
+            	<li>Allie</li>
+            	<li>Ambria</li>
+                <li>Amber</li>
+                <li>Amy</li>
+                <li>Bailey</li>
+                <li>Baylee</li>
+                <li>Becca</li>
+                <li>Breanna</li>
+                <li>Caitlynn</li>
+                <li>Courtney</li>
+                <li>Hailee</li>
+                <li>Hannah</li>
+                <li>Hannah</li>
+                <li>Kirsten</li>
+                <li>Kate</li>
+                <li>Katie</li>
+                <li>Kylie</li>
+                <li>Lexy</li>
+                <li>Maddy</li>
+                <li>Madison</li>
+                <li>Michelle</li>
+                <li>Olivia</li>
+                <li>Tannah</li>
+                <li>Taylor</li>
+                <li>Tori</li>
             </ul>
 		</section>
         
