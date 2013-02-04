@@ -24,8 +24,8 @@
   <div class="five columns"><span class="navfootertoplevel">About</span>
     <ul>
     	<!--<li>History</li>-->  
-      <li>Staff</li>
- 		  <li>Contact</li>
+      <li><a href="/about/staff.php">Staff</a></li>
+ 	  <li><a href="/about/contacts.php">Contacts</a></li>
       <li><a href="/locations/locations.php">Locations</a></li>
       <li><a href="/register/register.php">Register</a></li>
     </ul>

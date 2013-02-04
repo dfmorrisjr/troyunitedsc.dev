@@ -162,7 +162,7 @@
 			<a href="/index.php"><img src="/images/tuscshieldmainlogo.png"></a>
 		</div>
 		<div class="ten columns">
-			<h4 class="tagline"><a href="/index.php">Official Website</a></h5>
+			<h4 class="tagline"><a href="/index.php">Official Website</a></h4>
 			<h1 class="remove-bottom maintitle"><a href="/index.php">Troy United Soccer Club</a></h1>
 			<br class="clear" />
 		</div>
@@ -174,11 +174,11 @@
         </div>
         <div class="two columns" id="socialmedia">
         	<h5 class="tagline topmargin55" style="text-align:left;">Follow Us</h5>
-            <img src="/images/twitter_tu.png" alt="Follow TUSC on Twitter" class="socialicon leftmargin15 ">
-            <img src="/images/facebook_tu.png" alt="Like us on Facebook" class="socialicon">
+            <a href="http://twitter.com/troyunitedsc" target="_blank"><img src="/images/twitter_tu.png" alt="Follow TUSC on Twitter" class="socialicon leftmargin15 "></a>
+            <a href="http://facebook.com/troyunitedsc" target="_blank"><img src="/images/facebook_tu.png" alt="Like us on Facebook" class="socialicon"></a>
             <br />
-            <img src="/images/youtubegold_tu.png" alt="Find us on YouTube" class="socialicon leftmargin15">
-            <img src="/images/flickr_tu.png" alt="Find us on Flickr" class="socialicon">
+            <a href="http://youtube.com/troyunitedsc" target="_blank"><img src="/images/youtubegold_tu.png" alt="Find us on YouTube" class="socialicon leftmargin15"></a>
+            <a href="http://flic.kr/ps/2h2KJS" target="_blank"><img src="/images/flickr_tu.png" alt="Find us on Flickr" class="socialicon"></a>
         </div>
 		<div class="sixteen columns">
 			<hr class="navigationhr"/>

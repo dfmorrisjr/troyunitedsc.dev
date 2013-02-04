@@ -552,3 +552,15 @@ section{
 	margin-left: 10px;
 	list-style: circle;	
 }
+
+/* **** End Programs */
+
+/* **** Start Contacts */
+
+.phonenumber{
+	margin-left: 20px;
+	font-size: .75em !important;
+		
+}
+
+/* **** End Contacts */

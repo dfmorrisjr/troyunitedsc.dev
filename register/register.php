@@ -13,6 +13,8 @@
 <?php include('../header.php') ?>
 <!-- Begin Main Content -->
 	<div class="sixteen columns maincontent row">
+    
+    
 		<div id="wufoo-z7x3p3">
 Fill out my <a href="http://troyunitedsc.wufoo.com/forms/z7x3p3">online form</a>.
 </div>
@@ -32,7 +34,8 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 })(document, 'script');</script>
 	</div>
 
+
 <br class="clear" />
 <!-- End Main Content -->
 
-<?php include("footer.php"); ?>
+<?php include("../footer.php"); ?>
