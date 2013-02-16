@@ -54,17 +54,17 @@
             </li>
         </ul>
     </div>
-  <div class="five columns"><span class="navfootertoplevel">Programs</span>
-  	<ul>
-    	<li><a href="/programs/programs.php">Programs</a></li>
-        <!--<ul>
+  <div class="five columns"><span class="navfootertoplevel"><a href="/programs/programs.php">Programs</a></span>
+  	<!--<ul>
+    	<li>Programs</li>
+        <ul>
           <li>Minis</li>
           <li>Developmental</li>
           <li>Juniors</li>
           <li>Seniors</li>
-        </ul>-->
+        </ul>
         <li><a href="/programs/camps.php">Camps and Mini Camps</a></li>
-    </ul>
+    </ul>-->
   </div>
   
   <br class="clear" />

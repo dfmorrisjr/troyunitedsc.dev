@@ -77,8 +77,8 @@
                 </li>
                 
              </ul> -->
-        When the schedule becomes available, click image below for current schedule		
-        <img src="/images/slysaschedule.jpg" />
+        Click image below for current schedule		
+        <a href="http://events.gotsport.com/events/schedule.aspx?eventid=29557&FieldID=0&applicationID=1699550&action=Go" target="_blank"><img src="/images/slysaschedule.jpg" /></a>
                     
         </section>
 		<div class="ten columns teamcalendar omega alpha" id="teamcalendar">

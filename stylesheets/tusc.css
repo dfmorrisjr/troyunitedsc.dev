@@ -373,6 +373,11 @@ section{
 	border: none;
 }
 
+#missionstatement{
+	font-size: .75em;	
+	
+}
+
 
 /* **** END Main content */
 
@@ -564,3 +569,12 @@ section{
 }
 
 /* **** End Contacts */
+
+/* **** Start Join Our Club*/
+
+.joinourclub ul{
+	
+	margin-top: 20px;
+}
+
+/* **** End Join our Club */

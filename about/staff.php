@@ -84,7 +84,7 @@
         
         <article>
         <div class="sectiontitle"><span class="yellowsquare">.</span>
-             	Youth Academy Director
+             	Assistant Technical Director
              </div>
         	<div class="three columns" id="teamcoaches">
                 <h4 class="coachname">Buddy Entwistle<a href="mailto:buddy@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
@@ -183,8 +183,8 @@
              	Club Trainer and Coach
              </div>
         	<div class="three columns" id="teamcoaches">
-                <h4 class="coachname">Abbie Albietz<a href="mailto:abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-                alt="Sent email to Abbie" class="coachemailicon" /></a></h4>
+                <h4 class="coachname">Abbie Albietz<!--<a href="mailto:abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+                alt="Sent email to Abbie" class="coachemailicon" /></a>--></h4>
                 <img src="/images/blankphoto.jpg">
                 
 			</div>
@@ -201,11 +201,11 @@
        
        	<article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	Keeper Trainer
+             	Goalkeeper Coach
              </div>
         	<div class="three columns" id="teamcoaches">
-                <h4 class="coachname">Abby Entwistle<a href="mailto:abby@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-                alt="Sent email to Abby" class="coachemailicon" /></a></h4>
+                <h4 class="coachname">Abby Entwistle<!--<a href="mailto:abby@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+                alt="Sent email to Abby" class="coachemailicon" /></a>--></h4>
                 <img src="/images/blankphoto.jpg">
                 
 			</div>

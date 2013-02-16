@@ -123,6 +123,26 @@
         </article>
         
         </section>
+        <section>
+        	<div class="sectiontitle"><span class="yellowsquare">.</span>
+                        Camps
+        </div>
+        <article>
+        	<div class="sectiontitle"><span class="yellowsquare">.</span>
+             	All Ages
+             </div>
+             <div class="three columns">
+             	<h4>Ages: </h4>
+                <h4>Fees: </h4>
+             </div>
+             <div class="twelve columns">
+             <h5 class="programsdescription">Details on 2013 Camps and Mini Camps are coming soon.  Sign up for our mailing list to be one of the first to know!</h5>
+             
+             
+             </div>
+             <br class="clear" />
+        </article>
+        </section>
 		
 	</div>
 	<br class="clear" />

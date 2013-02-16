@@ -76,12 +76,12 @@
                 </li>
                 
              </ul> -->
-        When the schedule becomes available, click image below for current schedule	
-        <img src="/images/slysaschedule.jpg" />
+        Click image below for current schedule	
+        <a href="http://events.gotsport.com/events/schedule.aspx?eventid=29557&FieldID=0&applicationID=1710389&action=Go" target="_blank"><img src="/images/slysaschedule.jpg" /></a>
                     
         </section>
 		<div class="ten columns teamcalendar omega alpha" id="teamcalendar">
-			<!--<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=br6bksm8cos1vh6tvdgoou3ktc%40group.calendar.google.com&amp;color=%23691426&amp;src=troyunitedsc%40gmail.com&amp;color=%23182C57&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%23A32929&amp;src=p%23weather%40group.v.calendar.google.com&amp;color=%23856508&amp;ctz=America%2FChicago" style=" border-width:0 " width="560" height="600" frameborder="0" scrolling="no"></iframe>-->
+			<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=r3dam1sbfrus3v9p073upo4sbc%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FChicago" style=" border-width:0 " width="560" height="600" frameborder="0" scrolling="no"></iframe>
 
 		<br class="clear" />
 		</div>

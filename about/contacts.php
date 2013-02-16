@@ -50,7 +50,8 @@
              	</div>
             	
                     <h4 class="coachname">Daniel Olstad<a href="mailto:dolstad@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-                    alt="Sent email to Daniel" class="coachemailicon" /></a></h4>
+                    alt="Sent email to Daniel" class="coachemailicon" /></a>
+                    <span class="phonenumber">631-745-9286</span></h4>
                     <img src="/images/blankphoto.jpg">                
 				
             </article>

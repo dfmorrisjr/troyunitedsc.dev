@@ -16,8 +16,8 @@
 		<div class="three columns" id="teamcoaches">
 			<h3 class="teamname">U12</h3>
 			<h6 class="coachtitle">Coach</h6>
-			<h5 class="coachname">Abbie Albietz<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-			alt="Sent email to Abbie" class="coachemailicon" /></a></h5>
+			<h5 class="coachname">Abbie Albietz<!--<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+			alt="Sent email to Abbie" class="coachemailicon" /></a>--></h5>
 			<h6 class="coachtitle">Asst Coach</h6>
 			<h5 class="coachname">Todd Volmert<a href="mailto:todd@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Todd" class="coachemailicon" /></a></h5>
@@ -82,8 +82,8 @@
                 </li>
                 
              </ul> -->
-        When the schedule becomes available, click image below for current schedule	
-        <img src="/images/slysaschedule.jpg" />
+        Click image below for current schedule	
+        <a href="http://events.gotsport.com/events/schedule.aspx?eventid=29557&FieldID=0&applicationID=1700824&action=Go" target="_blank"><img src="/images/slysaschedule.jpg" /></a>
                     
         </section>
 		<div class="ten columns teamcalendar omega alpha" id="teamcalendar">

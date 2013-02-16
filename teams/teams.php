@@ -67,8 +67,8 @@
                 <h5 class="coachname">Todd Volmert<a href="mailto:todd@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
                 alt="Sent email to Todd" class="coachemailicon" /></a></h5>
                 <h6 class="coachtitle">Asst Coach</h6>
-                <h5 class="coachname">Abbie Albietz<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-                alt="Sent email to Abbie" class="coachemailicon" /></a></h5>
+                <h5 class="coachname">Abbie Albietz<!--<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+                alt="Sent email to Abbie" class="coachemailicon" /></a>--></h5>
 			</div>
             <div class="eight columns offset-by-three">
             	<a href="/teams/teamsu10.php"><img src="/images/soccerballreplaceteamphoto.jpg" alt="U10 Picture coming soon" class="topmargin5" style="text-align: right;"></a>
@@ -84,8 +84,8 @@
                 <h5 class="coachname">Todd Volmert<a href="mailto:todd@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
                 alt="Sent email to Todd" class="coachemailicon" /></a></h5>
                 <h6 class="coachtitle">Asst Coach</h6>
-                <h5 class="coachname">Abbie Albietz<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-                alt="Sent email to Abbie" class="coachemailicon" /></a></h5>
+                <h5 class="coachname">Abbie Albietz<!--<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+                alt="Sent email to Abbie" class="coachemailicon" /></a>--></h5>
 			</div>
             <div class="eight columns offset-by-three">
             	<a href="/teams/teamsu11.php"><img src="/images/u11.jpg" alt="U11" class="topmargin5" style="text-align: right;"></a>
@@ -98,11 +98,11 @@
              </div>
         	<div class="three columns" id="teamcoaches">
                 <h6 class="coachtitle">Coach</h6>
+                <h5 class="coachname">Abbie Albietz<!--<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+                alt="Sent email to Abbie" class="coachemailicon" /></a>--></h5>
+                <h6 class="coachtitle">Asst Coach</h6>
                 <h5 class="coachname">Todd Volmert<a href="mailto:todd@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
                 alt="Sent email to Todd" class="coachemailicon" /></a></h5>
-                <h6 class="coachtitle">Asst Coach</h6>
-                <h5 class="coachname">Abbie Albietz<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-                alt="Sent email to Abbie" class="coachemailicon" /></a></h5>
 			</div>
             <div class="eight columns offset-by-three">
             	<a href="/teams/teamsu12.php"><img src="/images/u12.jpg" alt="U12" class="topmargin5" style="text-align: right;"></a>
@@ -115,11 +115,11 @@
              </div>
         	<div class="three columns" id="teamcoaches">
                 <h6 class="coachtitle">Coach</h6>
-                <h5 class="coachname">Ray Jungst<a href="mailto:jinx@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-                alt="Sent email to Jinx" class="coachemailicon" /></a></h5>
+                <h5 class="coachname">Ray Jungst<!--<a href="mailto:jinx@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+                alt="Sent email to Jinx" class="coachemailicon" /></a>--></h5>
                 <h6 class="coachtitle">Asst Coach</h6>
-                <h5 class="coachname">Pat Hughes<a href="mailto:pat@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-                alt="Sent email to Pat" class="coachemailicon" /></a></h5>
+                <h5 class="coachname">Pat Hughes<!--<a href="mailto:pat@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+                alt="Sent email to Pat" class="coachemailicon" /></a>--></h5>
 			</div>
             <div class="eight columns offset-by-three">
             	<a href="/teams/teamsu14.php"><img src="/images/u14.jpg" alt="U14" class="topmargin5" style="text-align: right;"></a>
@@ -179,11 +179,11 @@
              </div>
             <div class="three columns" id="teamcoaches">
                 <h6 class="coachtitle">Coach</h6>
-                <h5 class="coachname">Matt Decamp<a href="mailto:matt@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-                alt="Sent email to Matt" class="coachemailicon" /></a></h5>
+                <h5 class="coachname">Matt Decamp<!--<a href="mailto:matt@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+                alt="Sent email to Matt" class="coachemailicon" /></a>--></h5>
                 <h6 class="coachtitle">Asst Coach</h6>
-                <h5 class="coachname">Buddy Entwistle<a href="mailto:buddy@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
-                alt="Sent email to Buddy" class="coachemailicon" /></a></h5>
+                <h5 class="coachname">Buddy Entwistle<!--<a href="mailto:buddy@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+                alt="Sent email to Buddy" class="coachemailicon" /></a>--></h5>
 			</div>
             <div class="eight columns offset-by-three">
             	<a href="/teams/teamsu11boys.php"><img src="/images/u11boys.jpg" alt="U11" class="topmargin5" style="text-align: right;"></a>

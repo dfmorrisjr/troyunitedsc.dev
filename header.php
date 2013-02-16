@@ -80,7 +80,7 @@
 		
 		$("#dropdownteams").hide();
 		//$("#dropdownlocations").hide();
-		$("#dropdownprograms").hide();
+		//$("#dropdownprograms").hide();
 		
     	$("#navteams").mouseover(function() {
 			$("#dropdownteams").show();
@@ -122,7 +122,7 @@
 			$("#dropdownlocations").hide();
 		});
 			
-		*/
+		
 		$("#navprograms").mouseover(function() {
 			$("#dropdownprograms").show();
 			$("#dropdownteams").hide();
@@ -141,7 +141,7 @@
 		$("#dropdownprograms").mouseout(function() {
 			$("#dropdownprograms").hide();
 		});
-		
+		*/
 		
 	});
     </script>
@@ -192,7 +192,7 @@
 			
 			<br class="clear" />
             
-            <div class="hidden navdropdown sixteen columns" id="dropdownteams">
+            <div class="hidden navdropdown nine columns" style="left: 240px;" id="dropdownteams">
                 
                 <a href="/teams/teams.php">Girls</a>
                         <ul>
@@ -211,11 +211,11 @@
                             <li><a href="/teams/teamsu10boys.php">U10</a></li>
                             <li><a href="/teams/teamsu11boys.php">U11</a></li>              
                         </ul>
-                <img src="/images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
+                <!--<img src="/images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>-->
                 <br class="clear" />
                 
             </div>
-            
+            <!--
             <div class="hidden navdropdown sixteen columns" id="dropdownprograms">
                  
 			    	<a href="/programs/programs.php">Programs</a>
@@ -231,6 +231,7 @@
                 <img src="/images/cornerlogo3.png" style="position: absolute; left: 650px; top: 40px;"/>
                 <br class="clear" />
             </div>
+            -->
        
        		<!--
             <div class="hidden navdropdown sixteen columns" id="dropdownlocations">
