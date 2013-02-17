@@ -18,9 +18,12 @@
 			<h6 class="coachtitle">Coach</h6>
 			<h5 class="coachname">Ray Jungst<!--<a href="mailto:jinx@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Jinx" class="coachemailicon" /></a>--></h5>
+            <h6>National "D" License</h6>
+            <br />
 			<h6 class="coachtitle">Asst Coach</h6>
 			<h5 class="coachname">Pat Hughes<!--<a href="mailto:pat@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Pat" class="coachemailicon" /></a>--></h5>
+            <h6>National "F" License</h6>
 			
 		</div>
 		<div class="nine columns alpha omega" id="teamphoto">

@@ -18,9 +18,12 @@
 			<h6 class="coachtitle">Coach</h6>
 			<h5 class="coachname">Abbie Albietz<!--<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Abbie" class="coachemailicon" /></a>--></h5>
+            <h6>National "F" License</h6>
+            <br />
 			<h6 class="coachtitle">Asst Coach</h6>
 			<h5 class="coachname">Todd Volmert<a href="mailto:todd@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Todd" class="coachemailicon" /></a></h5>
+            <h6>National "D" License</h6>
 		</div>
 		<div class="nine columns alpha omega" id="teamphoto">
 			<img src="/images/u12.jpg" class="teamphoto" />
@@ -45,7 +48,6 @@
                 <li>Madison</li>
                 <li>Morgan</li>
 				<li>Olivia</li>
-                <li>Peyton</li>
                 <li>Sarah M.</li>
                 <li>Sarah S.</li>
                 <li>Trinity</li>

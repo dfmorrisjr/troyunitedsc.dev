@@ -22,7 +22,7 @@
         	<div class="registrationlink"><a href="http://eepurl.com/u9UV1" target="_blank">Spring 2013 Developmental Program</a></div>
         
     </section>
-    <section>
+    <!--<section>
     	<div class="sectiontitle"><span class="yellowsquare">.</span>
              	Register for a Team
         </div>
@@ -44,7 +44,7 @@
             var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
             })(document, 'script');</script>
 	
-	</section>
+	</section>-->
     
     
 </div>

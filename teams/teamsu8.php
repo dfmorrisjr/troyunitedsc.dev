@@ -18,6 +18,7 @@
 			<h6 class="coachtitle">Coach</h6>
 			<h5 class="coachname">Daniel Olstad<a href="mailto:dolstad@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Daniel" class="coachemailicon" /></a></h5>
+            <h6>National "D" License</h6>
 			<!--
             <h6 class="coachtitle">Asst Coach</h6>
 			<h5 class="coachname">Abbie Albietz<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
@@ -34,6 +35,9 @@
 					Roster
 				</div>
             <ul>
+            
+            	<li>Emily F.</li>
+                <li>Emily J.</li>
             	<!--<li>Abi Dew</li>
             	<li>Abygail Ruether</li>
                 <li>Ally Renaud</li>

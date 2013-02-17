@@ -18,9 +18,12 @@
 			<h6 class="coachtitle">Coach</h6>
 			<h5 class="coachname">Todd Volmert<a href="mailto:todd@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Todd" class="coachemailicon" /></a></h5>
+            <h6>National "D" License</h6>
+            <br />
 			<h6 class="coachtitle">Asst Coach</h6>
 			<h5 class="coachname">Abbie Albietz<!--<a href="mailto:Abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Abbie" class="coachemailicon" /></a>--></h5>
+            <h6>National "F" License</h6>
 		</div>
 		<div class="nine columns alpha omega" id="teamphoto">
 			<img src="/images/soccerballreplaceteamphoto.jpg" class="teamphoto" />
@@ -32,25 +35,16 @@
 					Roster
 				</div>
             <ul>
-            	<!--<li>Abi Dew</li>
-            	<li>Abygail Ruether</li>
-                <li>Ally Renaud</li>
-                <li>Ayamel Coyotl</li>
-                <li>Carley Martin</li>
-                <li>Emily Ruck</li>
-                <li>Emma Armour</li>
-                <li>Haley Hall</li>
-                <li>Lauryn Morris</li>
-                <li>Lisa McCoy</li>
-                <li>Madison Orf</li>
-                <li>Morgan Sigmond</li>
-				<li>Olivia Giesler</li>
-                <li>Peyton Utterback</li>
-                <li>Rynn Hubbard</li>
-                <li>Sarah Morice</li>
-                <li>Sarah Schultz</li>
-                <li>Trinity Valli</li>
--->            </ul>
+            	<li>Abby</li>
+                <li>Alayna</li>
+                <li>Alexis</li>
+                <li>Ezra</li>
+                <li>Katherine</li>
+                <li>Olivia</li>
+                <li>Reyce</li>
+                <li>Riley</li>
+                <li>Tori</li>
+            </ul>
 		
 		</section>
         
@@ -88,7 +82,7 @@
                     
         </section>
 		<div class="ten columns teamcalendar omega alpha" id="teamcalendar">
-			<!--<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=u5o5krervl3i6smfm1vjovqcmc%40group.calendar.google.com&amp;color=%23182C57&amp;src=troyunitedsc%40gmail.com&amp;color=%23182C57&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%23A32929&amp;src=p%23weather%40group.v.calendar.google.com&amp;color=%23856508&amp;ctz=America%2FChicago" style=" border-width:0 " width="560" height="600" frameborder="0" scrolling="no"></iframe>-->
+			<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=hqnui8slqv5ltlum0orvccg03s%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=America%2FChicago" style=" border-width:0 " width="560" height="600" frameborder="0" scrolling="no"></iframe>
 
 		<br class="clear" />
 		</div>

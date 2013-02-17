@@ -29,8 +29,15 @@
 			</div>
             <div class="eight columns offset-by-three staffbio">
             	<ul>
-			<!--<li>Coaching Experience</li>
-				<ul>
+			<li>Coaching Experience
+            	<ul>
+                	<li>Mattituck Soccer Club; Mattituck, NY</li>
+                    <li>Newfield Soccer Club; Selden, NY</li>
+                    <li>Southold High School; Southold, NY</li>
+                    <li> New York Red Bulls Regional Development School</li>
+                </ul>
+            
+				<!--<ul>
 					<li>2011 East End Soccer Academy</li>
 						<ul>
 							<li>Boys Director</li>
@@ -56,13 +63,16 @@
 							<li>2006 - 2009  multiple league, County, Regional champions, State Semi-Finalist</li>
 						</ul>
 				</ul>-->
-			<!--<li>Coaching Certification
+            </li>    
+			<li>Coaching Certification
 				<ul>
-					<li>Certification from English Football Association (The FA)</li>
-					<li>National Diploma from National Soccer Coaches Association of America</li>
+					<li>NSCAA National Diploma</li>
+					<li>USSF National "D" License</li>
+                    <li>NSCAA Regional Goalkeeping Diploma</li>
+                    <li>English Football Association Certification</li>
 				</ul>	
-			</li>-->
-			<li>Playing Experience
+			</li>
+			<!--<li>Playing Experience
 				<ul>
 					<li>High School Southold High School</li>
 						<ul>
@@ -74,7 +84,7 @@
 					<li>Mattituck Soccer Club</li>
 				</ul>
 				
-			</li>
+			</li>-->
 		</ul>
             </div>
             <br class="clear" />
@@ -93,38 +103,39 @@
 			</div>
             <div class="eight columns offset-by-three staffbio">
             	<ul>
-			<!--<li>Coaching Experience</li>
+			<li>Coaching Experience</li>
 				<ul>
-					<li>2006-Present Head Boys and Girls Soccer Coach at Troy Buchanan H.S.</li>
+					<li>Head Boys and Girls Soccer Coach at Troy Buchanan H.S.</li>
 						<ul>
 							<li>5 Years Boys Head Coach,1 Year Girls Coach</li>
 							<li>1 Year 9th Grade Girls Soccer Team</li>
 						</ul>
-					<li>2009-Present Camp Instructor Maryville University Saints Soccer Camps</li>
+					<li>Camp Instructor Maryville University Saints Soccer Camps</li>
 						<ul>
 							<li>Work with 500+ Campers a Summer</li>
 							<li>Work under Eric Delabar, the camp director</li>
 						</ul>
-					<li>2003-2006 Head Girls Soccer Coach & J.V. Boys Coach at Wentzville Holt H.S</li>
+					<li>Head Girls Soccer Coach & J.V. Boys Coach at Wentzville Holt H.S</li>
 						<ul>
 							<li>2 Years as head Girls Coach</li>
 							<li>Years as J.V. Boys Coach</li>
 						</ul>
-					<li>2001-2003 Assistant Varsity Coach at Fort Zumwalt South</li>
+					<li>Assistant Varsity Coach at Fort Zumwalt South</li>
 						<ul>
 							<li>2 Years Volunteer Boys Assistant, and 1 Year Girls Assistant</li>
 							<li>Won 2 Districts and 2 Conference Championships</li>
 							<li>Coached under Brian Kelleher</li>
 						</ul>
-				</ul>-->
-			<!--<li>Coaching Certification
+				</ul>
+			<li>Coaching Certification
 				<ul>
 					<li>Currently hold a USA Youth Soccer National “D” License</li>
 					<li>Member of NSCAA (National Soccer Coaches Association of America)</li>
 					<li>Member of MSHSCA (Missouri State High School Soccer Coaches Ass.)</li>
 				</ul>	
-			</li>-->
-			<li>Playing Experience
+			</li>
+            
+			<!--<li>Playing Experience
 				<ul>
 					<li>High School at Fort Zumwalt South</li>
 						<ul>
@@ -148,7 +159,7 @@
 						</ul>
 				</ul>
 				
-			</li>
+			</li>-->
 		</ul>
             </div>
             <br class="clear" />
@@ -167,11 +178,7 @@
                 
 			</div>
             <div class="eight columns offset-by-three staffbio">
-                <!--<ul>
-                    <li>Coaching Experience</li>
-                    <li>Coaching Certification</li>
-                    <li>Playing Experience</li>
-                </ul>-->
+                
             </div>
             <br class="clear" />
         
@@ -188,11 +195,26 @@
                 
 			</div>
             <div class="eight columns offset-by-three staffbio">
-                <!--<ul>
-                    <li>Coaching Experience</li>
+                <ul>
+                    <!--<li>Coaching Experience</li>-->
                     <li>Coaching Certification</li>
-                    <li>Playing Experience</li>
-                </ul>-->
+                    	<ul>
+                        	<li>National “F” License</li>
+                        </ul>
+                    <li>Playing Experience
+                    	<ul>
+                        	<li>Southeast Missouri State University</li>
+                            <li>Timberland High School</li>
+                            <ul>
+                            	<li>four-year all-conference</li>
+                                <li>two-year all-state honoree</li>
+                                <li>First Team All-AAA Conference</li>
+                                <li>MAC All-Star Game</li>
+                                <li>Led Timberland in goals and points</li>
+                            </ul>
+                        </ul>
+                    </li>
+                </ul>
             </div>
             <br class="clear" />
         

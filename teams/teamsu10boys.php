@@ -18,6 +18,7 @@
 			<h6 class="coachtitle">Coach</h6>
 			<h5 class="coachname">Greg Geiger<a href="mailto:Greg@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Matt" class="coachemailicon" /></a></h5>
+            <h6>National "D" License</h6>
 			<!--<h6 class="coachtitle">Asst Coach</h6>
 			<h5 class="coachname">Buddy Entwistle<a href="mailto:buddy@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Buddy" class="coachemailicon" /></a></h5>-->

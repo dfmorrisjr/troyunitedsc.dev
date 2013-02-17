@@ -103,6 +103,8 @@ function initialize() {
       var point = new google.maps.LatLng(38.772856,-90.6427);
       var marker = createMarker(point,'Woodlands Park','Woodlands Park', 'SCCYSA Outdoor Games','200 Woodlands Pkwy, Saint Peters, MO','Woodlands Park 200 Woodlands Pkwy, Saint Peters, MO 63376');
             
+	  var point = new google.maps.LatLng(38.676531,-90.640512);
+      var marker = createMarker(point,'Chesterfield Valley Athletic Complex','Chesterfield Valley Athletic Complex', 'SLYSA Outdoor Games','17925 North Outer 40 Chesterfield, MO','17925 North Outer 40 Chesterfield, MO 63005');
 
 
   // put the assembled side_bar_html contents into the side_bar div

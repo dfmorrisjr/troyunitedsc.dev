@@ -18,10 +18,12 @@
 			<h6 class="coachtitle">Coach</h6>
 			<h5 class="coachname">Matt Decamp<!--<a href="mailto:matt@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Matt" class="coachemailicon" /></a>--></h5>
+            <h6>National "D" License</h6>
+            <br />
 			<h6 class="coachtitle">Asst Coach</h6>
 			<h5 class="coachname">Buddy Entwistle<!--<a href="mailto:buddy@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Buddy" class="coachemailicon" /></a>--></h5>
-			
+			<h6>National "D" License</h6>
 		</div>
 		<div class="nine columns alpha omega" id="teamphoto">
 			<img src="/images/u11boys.jpg" class="teamphoto" />
