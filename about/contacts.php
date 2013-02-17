@@ -36,7 +36,7 @@
              		Vice President
              	</div>
             	
-                    <h4 class="coachname">Todd Volmort<a href="mailto:todd@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
+                    <h4 class="coachname">Todd Volmert<a href="mailto:todd@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
                     alt="Sent email to Todd" class="coachemailicon" /></a>
                     <span class="phonenumber">636-295-2575</span></h4>
                     <br />
