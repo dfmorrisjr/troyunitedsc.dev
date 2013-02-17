@@ -2,7 +2,7 @@
 <div class="sixteen columns sponsors">
 	
 	<div class="four columns alpha">
-    <p class="sponsorlogo"><a href="http://pbt.net" target="_blank"><img src="/images/pbt.png" alt="Thank You People Bank and Trust" /></a></p>
+    <p class="sponsorlogo"><a href="http://pbtc.net" target="_blank"><img src="/images/pbt.png" alt="Thank You People Bank and Trust" /></a></p>
     </div>
     <div class="four columns">
     <p class="sponsorlogo"><img src="/images/rpp.png" alt="Thank You Rose Property Partners"/></p>
@@ -16,7 +16,7 @@
     <br	class="clear" />
     
     <div class="sixteen columns">
-    <p class="sponsorlogo sponsorslogotextonly"><a href="http://globalsolutonsdev.com" target="_blank">Global Solutions Development</a></p>
+    <p class="sponsorlogo sponsorslogotextonly"><a href="http://globalsolutionsdev.com" target="_blank">Global Solutions Development</a></p>
     </div>
 </div>
 <br class="clear" />
