@@ -27,9 +27,9 @@
              	<li>Cleats</li>
              	<li>Proper size ball</li>
                 	<ul>
-                    	<li>Size 3 U5+</li>
-                    	<li>Size 4 U18 - U12</li>
-                    	<li>Size 5 U13 and above</li>
+                    	<li>Size 3 -- U5+</li>
+                    	<li>Size 4 -- U8 - U12</li>
+                    	<li>Size 5 -- U13 and above</li>
                     </ul>
                 <li>Water Bottle</li>
              </ul>
@@ -40,10 +40,11 @@
                 </div>
                 <h5>Here are the forms you will need to join our club.</h5>
                 	<ul>
-                    	<li>State issued birth certificate.  Not the novilty one from the hospital with the precious little feet print. 
-                        The official Birth Certificate number is required by MYSA to identify the player </li>
-                        <li>Completed MYSA Registration form</li>
-                        <li>Medical Waiver</li>
+                    	<li>State issued birth certificate.  Hospital copies are not accepted.
+                        The official Birth Certificate is required for the MYSA player card</li>
+                        <li><a href="../Medical_Release_&_Liability_Waiver.pdf" target="_blank">Completed MYSA Emergency Medical Release & Liability Waiver</a></li>
+                        <li><a href="../playerparentcontactinformation.pdf" target="_blank">Parent Contact Information</a></li>
+                        <li><a href="../tuscwelcomecoc.pdf" target="_blank">Welcome Letter and Code of Conduct</a></li>
                     </ul>
              </article>
              
@@ -60,11 +61,13 @@
                                 <li>$150 Due Aug 1</li>
                             </ul>
                         </li>
-                        <li>Uniform Fees: currenly $95  Ordered through the Club
+                        <li>Troy United Kits (uniforms): Currently $95 Ordered through the Club (includes player number and Troy United SC team logo on jerseys)
                         	<ul>
-                            	<li>Home and Away Jerseys</li>
-                                <li>Purple and White Shorts</li>
-                                <li>Purple and White Socks</li>
+                            	<li>We Proudly wear Puma!</li>
+                                <li>White jersey, white shorts and white socks</li>
+                                <li>Purple jersey, purple shorts and purple socks</li>
+                                <li>*Additional items such as back packs, warm ups, car decals, hoodies, t-shirts, etc., can be ordered through our store, see your team manager for current store items and prices. *</li>
+                                <li>** ALL Troy United SC team/fan wear includes our club logo **</li>
                         	</ul>
                         </li>
                         <li>League Fees

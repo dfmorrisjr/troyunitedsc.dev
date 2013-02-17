@@ -3,8 +3,15 @@
 <file name="base.css" server="troyunitedsc.com//dev/" local="130026064609119024" remote="130026034800000000" />
 <file name="skeleton.css" server="troyunitedsc.com//dev/" local="130000637619733781" remote="130012284600000000" />
 <file name="layout.css" server="troyunitedsc.com//dev/" local="130000637619693779" remote="130012285200000000" />
-<file name="tusc.css" server="troyunitedsc.com//dev/" local="130055043383762244" remote="130055023200000000" />
+<file name="tusc.css" server="troyunitedsc.com//dev/" local="130055908531405092" remote="130055937600000000" />
 <file name="nivo-slider.css" server="troyunitedsc.com//dev/" local="130004304913376976" remote="130012285200000000" />
 <file name="jquery.tweet.css" server="troyunitedsc.com//dev/" local="130010372143426855" remote="130012285200000000" />
 <file name="jquery-ui-1.9.2.custom.min.css" server="troyunitedsc.com//dev/" local="130012795607113810" remote="130026034800000000" />
+<file name="base.css" server="troyunitedsc.com//" local="130026064609119024" remote="130056102600000000" />
+<file name="jquery-ui-1.9.2.custom.min.css" server="troyunitedsc.com//" local="130012795607113810" remote="130056102600000000" />
+<file name="jquery.tweet.css" server="troyunitedsc.com//" local="130010372143426855" remote="130056102600000000" />
+<file name="layout.css" server="troyunitedsc.com//" local="130000637619693779" remote="130056102600000000" />
+<file name="nivo-slider.css" server="troyunitedsc.com//" local="130004304913376976" remote="130056102600000000" />
+<file name="skeleton.css" server="troyunitedsc.com//" local="130000637619733781" remote="130056102600000000" />
+<file name="tusc.css" server="troyunitedsc.com//" local="130055908531405092" remote="130056102600000000" />
 </dwsync>

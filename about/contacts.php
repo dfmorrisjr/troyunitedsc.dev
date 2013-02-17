@@ -27,7 +27,7 @@
                     alt="Sent email to Greg" class="coachemailicon" /></a>
                     <span class="phonenumber">314-479-0449</span></h4>
                     <br />
-                    <img src="/images/blankphoto.jpg">                
+                    <img src="/images/greggeiger.jpg">                
 				
             </article>
             
@@ -40,7 +40,7 @@
                     alt="Sent email to Todd" class="coachemailicon" /></a>
                     <span class="phonenumber">636-295-2575</span></h4>
                     <br />
-                    <img src="/images/blankphoto.jpg">                
+                    <img src="/images/toddvolmert.jpg">                
 				
             </article>
             

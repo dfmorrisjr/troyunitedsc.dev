@@ -33,20 +33,19 @@
 					Roster
 				</div>
             <ul>
-            	<li>Alexa</li>
-            	<li>Alisha</li>
-                <li>Allyse</li>
-                <li>Baily</li>
-                <li>Brooke M.</li>
-                <li>Brooke C.</li>
-                <li>Bri</li>
-                <li>Cassidy</li>
-                <li>Kayla</li>
-                <li>Kerry</li>
-                <li>Paige</li>
-                <li>Theresa</li>
-                <li>Tiffany</li>
-                <li>Tori</li>               
+            	<li>Alexa #18</li>
+                <li>Allyse #9</li>
+                <li>Bailey #22</li>
+                <li>Brooke M. #2</li>
+                <li>Brooke C. #23</li>
+                <li>Bri #7</li>
+                <li>Cassidy #4</li>
+                <li>Kayla #11</li>
+                <li>Kerry #3</li>
+                <li>Paige #18</li>
+                <li>Theresa #14</li>
+                <li>Tiffany #12</li>
+                <li>Tori #13</li>               
             </ul>
 		
 		</section>

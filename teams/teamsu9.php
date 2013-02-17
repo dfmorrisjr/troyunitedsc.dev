@@ -35,15 +35,18 @@
 					Roster
 				</div>
             <ul>
-            	<li>Abigale</li>
-                <li>Alyson</li>
-                <li>Bailey</li>
-                <li>Grace</li>
-                <li>Gracie</li>
-                <li>Hadleigh</li>               
-                <li>Melody</li>              
-                <li>Nayda</li>
-                <li>Rylee</li>
+                <li>Alyson #11</li>
+                <li>Bailey #5</li>
+                <li>Camille #17</li>
+                <li>Grace #23</li>
+                <li>Gracie #10</li>
+                <li>Hadleigh #7</li>               
+                <li>Hailey #21</li>
+                <li>Maggie #14</li>
+                <li>Melody #8</li>              
+                <li>Nayda #9</li>
+                <li>Rylee #0</li>
+                <li>Taylor #33</li>
             </ul>
 		</section>
         

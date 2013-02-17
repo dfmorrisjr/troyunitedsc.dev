@@ -36,19 +36,19 @@
 					Roster
 				</div>
             <ul>
-            	<li>Alayna</li>
-                <li>Alexis</li>
-                <li>Erin</li>
-                <li>Faith</li>
-                <li>Jenna</li>
-                <li>Jordy</li>
-                <li>Mackenzie</li>
-                <li>Madie</li>
-            	<li>Morgan</li>
-                <li>Peyton</li>
-                <li>Reyce</li>
-                <li>Shelby</li>
-                <li>Siera</li>
+            	<li>Alayna #18</li>
+                <li>Alexia #13</li>
+                <li>Erin #19</li>
+                <li>Faith #00</li>
+                <li>Jenna #5</li>
+                <li>Jordy #2</li>
+                <li>Mackenzie #14</li>
+                <li>Madie #8</li>
+            	<li>Morgan #1</li>
+                <li>Peyton #15</li>
+                <li>Reyce #74</li>
+                <li>Shelby #6</li>
+                <li>Siera #23</li>
             </ul>
 		
 		</section>

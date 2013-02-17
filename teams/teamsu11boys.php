@@ -18,7 +18,7 @@
 			<h6 class="coachtitle">Coach</h6>
 			<h5 class="coachname">Matt Decamp<!--<a href="mailto:matt@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
 			alt="Sent email to Matt" class="coachemailicon" /></a>--></h5>
-            <h6>National "D" License</h6>
+            <h6>National "F" License</h6>
             <br />
 			<h6 class="coachtitle">Asst Coach</h6>
 			<h5 class="coachname">Buddy Entwistle<!--<a href="mailto:buddy@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
@@ -35,21 +35,21 @@
 					Roster
 				</div>
             <ul>
-            	<li>Aaron</li>
-                <li>Bailey</li>
-            	<li>Braden</li>
-                <li>Carson</li>
-                <li>Joshua</li>
-                <li>Landon</li>
-                <li>Luis</li>
-                <li>Luke</li>
-                <li>Malikai</li>
-                <li>Mathew</li>
-                <li>Maurice</li>
-                <li>Micah</li>
-                <li>TJ</li>
-                <li>Tyler</li>
-                <li>Wyatt</li>
+            	<li>Aaron #18</li>
+                <li>Bailey #42</li>
+            	<li>Braden #2</li>
+                <li>Carson #9</li>
+                <li>Joshua #23</li>
+                <li>Landon #74</li>
+                <li>Luis #10</li>
+                <li>Luke #14</li>
+                <li>Malikai #20</li>
+                <li>Matthew #7</li>
+                <li>Maurice #22</li>
+                <li>Micah #20</li>
+                <li>TJ #17</li>
+                <li>Tyler #16</li>
+                <li>Wyatt #8</li>
             </ul>
 		
 		</section>

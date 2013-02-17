@@ -99,11 +99,9 @@
                 
                 <h3>Links</h3>
                 <div>
-                    Links Go here
                     <ul>
-                        <li>List item one</li>
-                        <li>List item two</li>
-                        <li>List item three</li>
+                        <li><a href="http://mysa.org" target="_blank">MYSA</a></li>
+                        <li><a href="http://slysa.org" target="_blank">SLYSA</a></li>
                     </ul>
                 </div>
                 

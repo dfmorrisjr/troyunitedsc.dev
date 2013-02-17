@@ -34,16 +34,16 @@
 					Roster
 				</div>
             <ul>
-            	<li>Austin</li>
-                <li>Caleb</li>
-            	<li>Chase</li>
-                <li>Dalton</li>
-                <li>Dillon</li>
-                <li>Drake</li>
-                <li>Dylan</li>
-                <li>Ethan</li>
-                <li>Nathan</li>
-                <li>Thomas</li>
+            	<li>Austin #1</li>
+            	<li>Chase #18</li>
+                <li>Dillon #24</li>
+                <li>Drake #81</li>
+                <li>Dylan #12</li>
+                <li>Ethan #27</li>
+                <li>James #3</li>
+                <li>Korey #16</li>
+                <li>Riley #2</li>
+                <li>Thomas #11</li>
             </ul>
 		
 		</section>

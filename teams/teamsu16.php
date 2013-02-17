@@ -35,32 +35,29 @@
 					Roster
 				</div>
             <ul>
-            	<li>Alissa</li>
-            	<li>Allie</li>
-            	<li>Ambria</li>
-                <li>Amber</li>
-                <li>Amy</li>
-                <li>Bailey</li>
-                <li>Baylee</li>
-                <li>Becca</li>
-                <li>Breanna</li>
-                <li>Caitlynn</li>
-                <li>Courtney</li>
-                <li>Hailee</li>
-                <li>Hannah</li>
-                <li>Hannah</li>
-                <li>Kirsten</li>
-                <li>Kate</li>
-                <li>Katie</li>
-                <li>Kylie</li>
-                <li>Lexy</li>
-                <li>Maddy</li>
-                <li>Madison</li>
-                <li>Michelle</li>
-                <li>Olivia</li>
-                <li>Tannah</li>
-                <li>Taylor</li>
-                <li>Tori</li>
+            	<li>Alissa #18</li>
+            	<li>Allie #14</li>
+            	<li>Ambria #3</li>
+                <li>Amber #29</li>
+                <li>Amy #26</li>
+                <li>Baylee #74</li>
+                <li>Becca #27</li>
+                <li>Breanna #19</li>
+                <li>Caitlynn #5</li>
+                <li>Courtney #9</li>
+                <li>Hailee #8</li>
+                <li>Hannah #16</li>
+                <li>Kirsten #12</li>
+                <li>Katie #21</li>
+                <li>Kylie #17</li>
+                <li>Lexy #13</li>
+                <li>Maddy #11</li>
+                <li>Madison #24</li>
+                <li>Michelle #54</li>
+                <li>Olivia #25</li>
+                <li>Tannah #28</li>
+                <li>Taylor #10</li>
+                <li>Tori #1</li>
             </ul>
 		</section>
         

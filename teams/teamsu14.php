@@ -36,21 +36,22 @@
 					Roster
 				</div>
             <ul>
-            	<li>Alex</li>
-                <li>Alyssa</li>
-                <li>Anika</li>
-                <li>Ashley</li>
-            	<li>Catherine</li>
-                <li>Calista</li>
-                <li>Elly</li>
-            	<li>Emily</li>
-                <li>Jasimine</li>
-                <li>Julia</li>
-                <li>Krystal</li>
-                <li>Madeline</li>
-                <li>Rachel</li>
-                <li>Sammy</li>
-                <li>Tori</li>
+            	<li>Alex #10</li>
+                <li>Alyssa #23</li>
+                <li>Anika #32</li>
+                <li>Ashley #15</li>
+            	<li>Catherine #6</li>
+                <li>Calista #27</li>
+                <li>Elly #17</li>
+            	<li>Emily #2</li>
+                <li>Hannah #7</li>
+                <li>Jasimine #25</li>
+                <li>Julia #4</li>
+                <li>Krystal #14</li>
+                <li>Madeline #33</li>
+                <li>Rachel #11</li>
+                <li>Sammy #3</li>
+                <li>Tori #13</li>
             </ul>
 		
 		</section>

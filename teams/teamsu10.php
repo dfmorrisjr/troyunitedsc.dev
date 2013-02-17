@@ -35,15 +35,15 @@
 					Roster
 				</div>
             <ul>
-            	<li>Abby</li>
-                <li>Alayna</li>
-                <li>Alexis</li>
-                <li>Ezra</li>
-                <li>Katherine</li>
-                <li>Olivia</li>
-                <li>Reyce</li>
-                <li>Riley</li>
-                <li>Tori</li>
+            	<li>Abby #20</li>
+                <li>Alayna #19</li>
+                <li>Alexis #9</li>
+                <li>Ezra #00</li>
+                <li>Katherine #4</li>
+                <li>Olivia #81</li>
+                <li>Reyce #74</li>
+                <li>Riley #12</li>
+                <li>Tori #2</li>
             </ul>
 		
 		</section>

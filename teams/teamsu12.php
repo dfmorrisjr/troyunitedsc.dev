@@ -35,22 +35,22 @@
 					Roster
 				</div>
             <ul>
-            	<li>Abi</li>
-            	<li>Abygail</li>
-                <li>Ally</li>
-                <li>Ayamel</li>
-                <li>Carley</li>
-                <li>Emily</li>
-                <li>Emma</li>
-                <li>Haley</li>
-                <li>Lauryn</li>
-                <li>Lisa</li>
-                <li>Madison</li>
-                <li>Morgan</li>
-				<li>Olivia</li>
-                <li>Sarah M.</li>
-                <li>Sarah S.</li>
-                <li>Trinity</li>
+            	<li>Abi #9</li>
+            	<li>Abygail #5</li>
+                <li>Ally #8</li>
+                <li>Ayamel #12</li>
+                <li>Carley #16</li>
+                <li>Emily #3</li>
+                <li>Emma #27</li>
+                <li>Haley #6</li>
+                <li>Lauryn #14</li>
+                <li>Lisa #18</li>
+                <li>Madison #4</li>
+                <li>Morgan #17</li>
+				<li>Olivia #7</li>
+                <li>Sarah M. #13</li>
+                <li>Sarah S. #11</li>
+                <li>Trinity #10</li>
             </ul>
 		
 		</section>

@@ -191,7 +191,7 @@
         	<div class="three columns" id="teamcoaches">
                 <h4 class="coachname">Abbie Albietz<!--<a href="mailto:abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
                 alt="Sent email to Abbie" class="coachemailicon" /></a>--></h4>
-                <img src="/images/blankphoto.jpg">
+                <img src="/images/abbiealbietz.jpg">
                 
 			</div>
             <div class="eight columns offset-by-three staffbio">

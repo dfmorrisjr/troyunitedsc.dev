@@ -35,28 +35,16 @@
 					Roster
 				</div>
             <ul>
-            
-            	<li>Emily F.</li>
-                <li>Emily J.</li>
-            	<!--<li>Abi Dew</li>
-            	<li>Abygail Ruether</li>
-                <li>Ally Renaud</li>
-                <li>Ayamel Coyotl</li>
-                <li>Carley Martin</li>
-                <li>Emily Ruck</li>
-                <li>Emma Armour</li>
-                <li>Haley Hall</li>
-                <li>Lauryn Morris</li>
-                <li>Lisa McCoy</li>
-                <li>Madison Orf</li>
-                <li>Morgan Sigmond</li>
-				<li>Olivia Giesler</li>
-                <li>Peyton Utterback</li>
-                <li>Rynn Hubbard</li>
-                <li>Sarah Morice</li>
-                <li>Sarah Schultz</li>
-                <li>Trinity Valli</li>
--->            </ul>
+            	<li>Bella #1</li>
+                <li>Charlie #2</li>
+                <li>Ellie #4</li>
+                <li>Emily F. #6</li>
+                <li>Emily J. #3</li>
+                <li>Isabella #7</li>
+                <li>Lily #17</li>
+                <li>Mackenzie #10</li>
+            	<li>Morgan #5</li>
+            </ul>
 		
 		</section>
         
@@ -94,7 +82,7 @@
                     
         </section>
 		<div class="ten columns teamcalendar omega alpha" id="teamcalendar">
-			<!--<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=u5o5krervl3i6smfm1vjovqcmc%40group.calendar.google.com&amp;color=%23182C57&amp;src=troyunitedsc%40gmail.com&amp;color=%23182C57&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%23A32929&amp;src=p%23weather%40group.v.calendar.google.com&amp;color=%23856508&amp;ctz=America%2FChicago" style=" border-width:0 " width="560" height="600" frameborder="0" scrolling="no"></iframe>-->
+			<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=8cv0tvdhcpr4v54jmclrksp9hg%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FChicago" style=" border-width:0 " width="560" height="600" frameborder="0" scrolling="no"></iframe>
 
 		<br class="clear" />
 		</div>
