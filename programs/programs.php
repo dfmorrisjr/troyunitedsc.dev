@@ -19,14 +19,15 @@
         </div>
         <article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	Mini's
+             	Developmental
              </div>
              <div class="three columns">
-             	<h4>Ages: U5 & U6</h4>
+             	<h4>Ages: U5 - U8</h4>
                 <h4>Fees: $50</h4>
+                <h4><a href="http://eepurl.com/u9UV1" target="_blank">Register for Spring 2013 Developmental Program</a></h4>
              </div>
              <div class="twelve columns">
-             <h5 class="programsdescription">The Minis program is designed for young children to enhance their enjoyment of not only soccer, but physical activity.  The learning environment is designed for fun and learning and to keep each child engaged in the activities presented.</h5>
+             <h5 class="programsdescription">The Developmental program is designed for young children to enhance their enjoyment of not only soccer, but physical activity.  The learning environment is designed for fun and learning and to keep each child engaged in the activities presented.</h5>
              
              <ul class="programslist">
              	<li>8 weeks during the spring, fall and winter (each session requires separate registration)</li>
@@ -38,7 +39,7 @@
              </div>
              <br class="clear" />
         </article>
-        
+        <!--
         <article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
              	Developmental
@@ -61,17 +62,17 @@
              <br class="clear" />
              
         </article>
-        
+        -->
         <article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	Juniors
+             	Competitive
              </div>
               <div class="three columns">
-             	<h4>Ages: U9, U10, U11, & U12</h4>
+             	<h4>Ages: U9+</h4>
                 <h4>Fees: Club, League and Uniform</h4>
              </div>
              <div class="twelve columns">
-             <h5 class="programsdescription">The Juniors program is the beginning of the TUSC team structure, which begins at the U9 age.  Players are placed on teams based on our summer assessment/tryouts beginning at the U11 age.  Prior to this (U9 & U10) all players are welcome.</h5>
+             <h5 class="programsdescription">The Competitive program is the beginning of the TUSC team structure, which begins at the U9 age.  Players are placed on teams based on our summer assessment/tryouts beginning at the U11 age.  Prior to this (U9 & U10) all players are welcome.</h5>
              
              <ul class="programslist">
              	<li>Teams are formed based on maximum roster size allowed, with a maximum of 2 teams per age group for each gender.</li>
@@ -91,7 +92,7 @@
              
         </article>
         
-        <article>
+        <!--<article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
              	Seniors
              </div>
@@ -120,7 +121,7 @@
              </div>
              <br class="clear" />
              
-        </article>
+        </article>-->
         
         </section>
         <section>

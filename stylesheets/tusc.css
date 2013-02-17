@@ -578,3 +578,15 @@ section{
 }
 
 /* **** End Join our Club */
+
+/* **** Start Registration */
+
+.registrationlink{
+	margin-top: 20px;
+	margin-left: 40px;
+	font-size: 1.25em;
+	margin-bottom: 20px;
+	font-variant: small-caps;
+}
+
+/* *** End Reistration */

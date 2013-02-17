@@ -13,28 +13,41 @@
 <?php include('../header.php') ?>
 <!-- Begin Main Content -->
 	<div class="sixteen columns maincontent row">
-    
-    
+    <section>
+    	<div class="sectiontitle"><span class="yellowsquare">.</span>
+             	Register for development programs
+        </div>
+        
+        
+        	<div class="registrationlink"><a href="http://eepurl.com/u9UV1" target="_blank">Spring 2013 Developmental Program</a></div>
+        
+    </section>
+    <section>
+    	<div class="sectiontitle"><span class="yellowsquare">.</span>
+             	Register for a Team
+        </div>
 		<div id="wufoo-z7x3p3">
-Fill out my <a href="http://troyunitedsc.wufoo.com/forms/z7x3p3">online form</a>.
+			Fill out my <a href="http://troyunitedsc.wufoo.com/forms/z7x3p3">online form</a>.
+		</div>
+			<script type="text/javascript">var z7x3p3;(function(d, t) {
+            var s = d.createElement(t), options = {
+            'userName':'troyunitedsc', 
+            'formHash':'z7x3p3', 
+            'autoResize':true,
+            'height':'1043',
+            'async':true,
+            'header':'show'};
+            s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+            s.onload = s.onreadystatechange = function() {
+            var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+            try { z7x3p3 = new WufooForm();z7x3p3.initialize(options);z7x3p3.display(); } catch (e) {}};
+            var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+            })(document, 'script');</script>
+	
+	</section>
+    
+    
 </div>
-<script type="text/javascript">var z7x3p3;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'troyunitedsc', 
-'formHash':'z7x3p3', 
-'autoResize':true,
-'height':'1043',
-'async':true,
-'header':'show'};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { z7x3p3 = new WufooForm();z7x3p3.initialize(options);z7x3p3.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
-	</div>
-
-
 <br class="clear" />
 <!-- End Main Content -->
 

@@ -29,7 +29,7 @@
 			</div>
             <div class="eight columns offset-by-three staffbio">
             	<ul>
-			<li>Coaching Experience</li>
+			<!--<li>Coaching Experience</li>
 				<ul>
 					<li>2011 East End Soccer Academy</li>
 						<ul>
@@ -55,24 +55,23 @@
 							<li>Head Coach Jr Varsity Boys</li>
 							<li>2006 - 2009  multiple league, County, Regional champions, State Semi-Finalist</li>
 						</ul>
-				</ul>
-			<li>Coaching Certification
+				</ul>-->
+			<!--<li>Coaching Certification
 				<ul>
 					<li>Certification from English Football Association (The FA)</li>
 					<li>National Diploma from National Soccer Coaches Association of America</li>
 				</ul>	
-			</li>
+			</li>-->
 			<li>Playing Experience
 				<ul>
-					<li>High School 1997-2000 Southold High School</li>
+					<li>High School Southold High School</li>
 						<ul>
 							<li>4 year varsity</li>
 							<li>2 year captian</li>
 							<li>All-County</li>
 						</ul>
 					<li>College at Springfield College, Springfield, MA</li>
-					<li>1995-2000 Mattituck Soccer Club</li>
-						
+					<li>Mattituck Soccer Club</li>
 				</ul>
 				
 			</li>
@@ -94,7 +93,7 @@
 			</div>
             <div class="eight columns offset-by-three staffbio">
             	<ul>
-			<li>Coaching Experience</li>
+			<!--<li>Coaching Experience</li>
 				<ul>
 					<li>2006-Present Head Boys and Girls Soccer Coach at Troy Buchanan H.S.</li>
 						<ul>
@@ -117,14 +116,14 @@
 							<li>Won 2 Districts and 2 Conference Championships</li>
 							<li>Coached under Brian Kelleher</li>
 						</ul>
-				</ul>
-			<li>Coaching Certification
+				</ul>-->
+			<!--<li>Coaching Certification
 				<ul>
 					<li>Currently hold a USA Youth Soccer National “D” License</li>
 					<li>Member of NSCAA (National Soccer Coaches Association of America)</li>
 					<li>Member of MSHSCA (Missouri State High School Soccer Coaches Ass.)</li>
 				</ul>	
-			</li>
+			</li>-->
 			<li>Playing Experience
 				<ul>
 					<li>High School at Fort Zumwalt South</li>
@@ -168,11 +167,11 @@
                 
 			</div>
             <div class="eight columns offset-by-three staffbio">
-                <ul>
+                <!--<ul>
                     <li>Coaching Experience</li>
                     <li>Coaching Certification</li>
                     <li>Playing Experience</li>
-                </ul>
+                </ul>-->
             </div>
             <br class="clear" />
         
@@ -180,7 +179,7 @@
         
         <article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	Club Trainer and Coach
+             	Club Trainer
              </div>
         	<div class="three columns" id="teamcoaches">
                 <h4 class="coachname">Abbie Albietz<!--<a href="mailto:abbie@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
@@ -189,11 +188,11 @@
                 
 			</div>
             <div class="eight columns offset-by-three staffbio">
-                <ul>
+                <!--<ul>
                     <li>Coaching Experience</li>
                     <li>Coaching Certification</li>
                     <li>Playing Experience</li>
-                </ul>
+                </ul>-->
             </div>
             <br class="clear" />
         
@@ -201,7 +200,7 @@
        
        	<article>
         	<div class="sectiontitle"><span class="yellowsquare">.</span>
-             	Goalkeeper Coach
+             	Goalkeeper Trainer
              </div>
         	<div class="three columns" id="teamcoaches">
                 <h4 class="coachname">Abby Entwistle<!--<a href="mailto:abby@troyunitedsc.com" /><img src="../images/mailinglist_tu35px.png" 
@@ -210,11 +209,11 @@
                 
 			</div>
             <div class="eight columns offset-by-three staffbio">
-                <ul>
+                <!--<ul>
                     <li>Coaching Experience</li>
                     <li>Coaching Certification</li>
                     <li>Playing Experience</li>
-                </ul>
+                </ul>-->
             </div>
             <br class="clear" />
         

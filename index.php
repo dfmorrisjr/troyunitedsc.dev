@@ -49,10 +49,10 @@
                 Coachin' em up - Coaches Todd and Abbie coaching U12 up during halftime of the Dec 16 2012 match. 
             </div>
             <div id="htmlcaption2" class="nivo-html-caption">
-                2012 Summer Camp - Director of Coaching Daniel Olstad putting them through thier paces.
+                2012 Summer Camp - Technical Director  Daniel Olstad putting them through thier paces.
             </div>
             <div id="htmlcaption3" class="nivo-html-caption">
-                U8 Season Opener - Director of Coaching and U8 Coach Daniel Olstad preps the team for the spring 2012 season opener.
+                U8 Season Opener - Technical Director and U8 Coach Daniel Olstad preps the team for the spring 2012 season opener.
             </div>
         </div>
 			</section>
