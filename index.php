@@ -36,10 +36,13 @@
 			<section id="contentslider" class="noborder">
 			<div class="slider-wrapper theme-light">
             <div id="slider" class="nivoSlider">
+            	<img src="/images/springkickoff.jpg" data-thumb="/images/springkickoff.jpg" alt="" />
+                <a href="http://eepurl.com/u9UV1" target="_blank"><img src="images/developmentaladvert.jpg" data-thumb="/images/developmentaladvert.jpg" alt="" title="#htmlcaption4" ></a>
                  <img src="/images/u11showmegames640x480.jpg" data-thumb="/images/u11showmegames640x410.jpg" alt="" title="#htmlcaption0"/>
                 <img src="/images/u12toddabbiecoachingemup640x480.jpg" data-thumb="/images/u12toddabbiecoachingemup640x480.jpg" alt="" title="#htmlcaption1" />
                 <img src="/images/2012summercamp640x480.jpg" data-thumb="/images/2012summercamp640x480.jpg" alt="" title="#htmlcaption2" />
                <img src="/images/u8seasonopener640x480.jpg" data-thumb="/images/u8seasonopener640x480.jpg" alt="" title="#htmlcaption3" />
+               
                
             </div>
             <div id="htmlcaption0" class="nivo-html-caption">
@@ -53,6 +56,9 @@
             </div>
             <div id="htmlcaption3" class="nivo-html-caption">
                 U8 Season Opener - Technical Director and U8 Coach Daniel Olstad preps the team for the spring 2012 season opener.
+            </div>
+            <div id="htmlcaption4" class="nivo-html-caption">
+                Click above to register now for the spring developmental program!
             </div>
         </div>
 			</section>
