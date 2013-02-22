@@ -27,7 +27,8 @@
                 <h4><a href="http://eepurl.com/u9UV1" target="_blank">Register for Spring 2013 Developmental Program</a></h4>
              </div>
              <div class="twelve columns">
-             <h5 class="programsdescription">The Developmental program is designed for young children to enhance their enjoyment of not only soccer, but physical activity.  The learning environment is designed for fun and learning and to keep each child engaged in the activities presented.</h5>
+             <h5 class="programsdescription">The Developmental Program is an introductory program for players ages 4-7 to introduce young players to the game of soccer. Through a variety of <strong>FUN</strong>, non-directional activities and small sided games, these young players will learn the skills required to grow as young athletes, incorporating balance and coordination skills for the youngest players, along with technical training such as basic dribbling and ball mastery, passing, shooting, turning and 1v1’s as players gain experience.
+The Developmental Program is an environment free of pressure and expectation and <strong>full of fun and learning.</strong> In the Developmental Program we are not looking for the next great player, we are simply teaching the game through <strong>fun and exciting activities meant to stimulate a child’s interest and enjoyment of soccer.</strong></h5>
              
              <ul class="programslist">
              	<li>8 weeks during the spring, fall and winter (each session requires separate registration)</li>

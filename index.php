@@ -40,7 +40,7 @@
                 <a href="http://eepurl.com/u9UV1" target="_blank"><img src="images/developmentaladvert2.jpg" data-thumb="/images/developmentaladvert2.jpg" alt="" title="#htmlcaption4" ></a>
                  <img src="/images/u11showmegames640x480.jpg" data-thumb="/images/u11showmegames640x410.jpg" alt="" title="#htmlcaption0"/>
                 <img src="/images/u12toddabbiecoachingemup640x480.jpg" data-thumb="/images/u12toddabbiecoachingemup640x480.jpg" alt="" title="#htmlcaption1" />
-                <img src="/images/2012summercamp640x480.jpg" data-thumb="/images/2012summercamp640x480.jpg" alt="" title="#htmlcaption2" />
+                
                <img src="/images/u8seasonopener640x480.jpg" data-thumb="/images/u8seasonopener640x480.jpg" alt="" title="#htmlcaption3" />
                
                
@@ -51,14 +51,12 @@
             <div id="htmlcaption1" class="nivo-html-caption">
                 Coachin' em up - Coaches Todd and Abbie coaching U12 up during halftime of the Dec 16 2012 match. 
             </div>
-            <div id="htmlcaption2" class="nivo-html-caption">
-                2012 Summer Camp - Technical Director  Daniel Olstad putting them through thier paces.
-            </div>
+            
             <div id="htmlcaption3" class="nivo-html-caption">
                 U8 Season Opener - Technical Director and U8 Coach Daniel Olstad preps the team for the spring 2012 season opener.
             </div>
             <div id="htmlcaption4" class="nivo-html-caption">
-                Click above to register now for the spring developmental program!
+                <a href="http://eepurl.com/u9UV1" target="_blank">Click above or here to register now for the spring developmental program!</a>
             </div>
         </div>
 			</section>
