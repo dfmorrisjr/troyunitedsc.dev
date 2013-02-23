@@ -8,7 +8,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Official Website of Troy United Socccer Club - Staff</title>
+	<title>Official Website of Troy United Soccer Club - Staff</title>
 
 <?php include('../header.php') ?>
 <!-- Begin Main Content -->

@@ -8,7 +8,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Official Website of Troy United Socccer Club</title>
+	<title>Official Website of Troy United Soccer Club</title>
 
 <?php include('header.php') ?>
 
@@ -37,6 +37,7 @@
 			<div class="slider-wrapper theme-light">
             <div id="slider" class="nivoSlider">
 	            <img src="/images/stpartricksdayflyer.jpg" data-thumb="/images/stpartricksdayflyer.jpg" alt="" />
+                <img src="/images/andorospizzapickupslider.jpg" data-thumb="/images/andorospizzapickupslider.jpg" alt="" />
             	<img src="/images/springkickoff.jpg" data-thumb="/images/springkickoff.jpg" alt="" />
                 <a href="http://eepurl.com/u9UV1" target="_blank"><img src="images/developmentaladvert2.jpg" data-thumb="/images/developmentaladvert2.jpg" alt="" title="#htmlcaption4" ></a>
                 <img src="/images/u11showmegames640x480.jpg" data-thumb="/images/u11showmegames640x410.jpg" alt="" title="#htmlcaption0"/>
