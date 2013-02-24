@@ -65,7 +65,7 @@
                     alt="Sent email to Tammy" class="coachemailicon" /></a>
                     <span class="phonenumber">314-504-6506</span></h4>
                     <br />
-                    <img src="/images/blankphoto.jpg">                
+                    <img src="/images/tammymorris.jpg">                
 				
             </article>
             
