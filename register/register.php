@@ -20,6 +20,24 @@
         
         
         	<div class="registrationlink"><a href="http://eepurl.com/u9UV1" target="_blank">Spring 2013 Developmental Program</a></div>
+            
+        
+    </section>
+    
+    <section>
+    	<div class="sectiontitle"><span class="yellowsquare">.</span>
+             	Register for 2013 Summer Camp
+        </div>
+        
+        
+        	<div class="registrationlink"><a href="http://eepurl.com/wrs5H" target="_blank">Register for the TUSC 2013 Summer Camp</a></div>
+            <div class="registrationlink">
+            <p>click the image below for camp details</p>
+            <a href="https://www.dropbox.com/s/8rwp8eobjq2e8qf/2013SummerCampWebVersion.pdf" target="_blank">
+            	<img src="../images/2013summercamp.jpg" alt="2013 Summer Camp"></a>
+            </div>
+            
+            
         
     </section>
     <!--<section>
