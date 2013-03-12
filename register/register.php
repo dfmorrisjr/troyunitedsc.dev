@@ -33,7 +33,7 @@
         	<div class="registrationlink"><a href="http://eepurl.com/wrs5H" target="_blank">Register for the TUSC 2013 Summer Camp</a></div>
             <div class="registrationlink">
             <p>click the image below for camp details</p>
-            <a href="https://www.dropbox.com/s/8rwp8eobjq2e8qf/2013SummerCampWebVersion.pdf" target="_blank">
+            <a href="2013summercampwebversion.pdf" target="_blank">
             	<img src="../images/2013summercamp.jpg" alt="2013 Summer Camp"></a>
             </div>
             
