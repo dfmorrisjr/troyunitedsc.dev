@@ -10,10 +10,25 @@
         
 		$('#txtBirthDate').change( function() {
   			var birthDate = $('#txtBirthDate').val();
+			var referenceDate;
+			var currentDate = new Date();
+			var currentMonth = currentDate.getMonth() + 1;
+			var referenceYear = currentDate.getFullYear();
+		
+			if(currentMonth < 8){
+				referenceYear = referenceYear - 1;
+			}
+		
+			referenceDate =  new Date(referenceYear,"7","1");
 			birthDate = new Date(birthDate);
 			
+			var elapsedYears = referenceDate - birthDate;
+			elapsedYears = Math.floor((((((elapsedYears / 1000) / 60)/ 60)/ 24)/ 365));
+			
+			var ageGroup = "U" + (elapsedYears + 1);
+			
 			if(birthDate){
-				$('#txtAgeGroup').val(birthDate.toDateString());
+				$('#txtAgeGroup').val(ageGroup);
 			}
 		});
           
