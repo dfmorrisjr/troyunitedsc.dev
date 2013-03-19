@@ -13,7 +13,7 @@
 <?php include('../header.php') ?>
 <!-- Begin Main Content -->
 	<div class="sixteen columns maincontent row">
-    <section>
+    <!--<section>
     	<div class="sectiontitle"><span class="yellowsquare">.</span>
              	Register for development programs
         </div>
@@ -22,7 +22,7 @@
         	<div class="registrationlink"><a href="http://eepurl.com/u9UV1" target="_blank">Spring 2013 Developmental Program</a></div>
             
         
-    </section>
+    </section>-->
     
     <section>
     	<div class="sectiontitle"><span class="yellowsquare">.</span>
