@@ -28,6 +28,7 @@
  	  <li><a href="/about/contacts.php">Contacts</a></li>
       <li><a href="/locations/locations.php">Locations</a></li>
       <li><a href="/register/register.php">Register</a></li>
+      <li><a href="/about/blog.php">Blog</a></li>
     </ul>
     
     </div>
