@@ -4,4 +4,12 @@
 <file name="bar.css" server="troyunitedsc.com//" local="130004304922526976" remote="130056102000000000" />
 <file name="bullets.png" server="troyunitedsc.com//" local="130004304923736976" remote="130056102000000000" />
 <file name="loading.gif" server="troyunitedsc.com//" local="130004304924746976" remote="130056102000000000" />
+<file name="arrows.png" server="ftp.troyunitedsc.com//dev/" local="130099454756164208" remote="130107307800000000" />
+<file name="bar.css" server="ftp.troyunitedsc.com//dev/" local="130099454756174208" remote="130107307800000000" />
+<file name="bullets.png" server="ftp.troyunitedsc.com//dev/" local="130099454756194209" remote="130107307800000000" />
+<file name="loading.gif" server="ftp.troyunitedsc.com//dev/" local="130099454756204210" remote="130107307800000000" />
+<file name="arrows.png" server="ftp.troyunitedsc.com" local="130099454756164208" remote="130107318600000000" />
+<file name="bar.css" server="ftp.troyunitedsc.com" local="130099454756174208" remote="130107318600000000" />
+<file name="bullets.png" server="ftp.troyunitedsc.com" local="130099454756194209" remote="130107318600000000" />
+<file name="loading.gif" server="ftp.troyunitedsc.com" local="130099454756204210" remote="130107318600000000" />
 </dwsync>

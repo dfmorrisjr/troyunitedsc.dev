@@ -26,6 +26,23 @@
     
     <section>
     	<div class="sectiontitle"><span class="yellowsquare">.</span>
+             	Register for free spring developmental program
+        </div>
+        
+        
+        	<div class="registrationlink"><a href="http://eepurl.com/ybJSX" target="_blank">Register for the free spring developmental program</a></div>
+            <div class="registrationlink">
+            <p>click the image below to register</p>
+            <a href="http://eepurl.com/ybJSX" target="_blank">
+            	<img src="../images/freedevelopmental25percent.jpg" alt="Free Spring Developmental Program"></a>
+            </div>
+            
+            
+        
+    </section>
+    
+    <section>
+    	<div class="sectiontitle"><span class="yellowsquare">.</span>
              	Register for 2013 Summer Camp
         </div>
         
