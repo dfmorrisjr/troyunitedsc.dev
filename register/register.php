@@ -26,6 +26,23 @@
     
     <section>
     	<div class="sectiontitle"><span class="yellowsquare">.</span>
+             	2013 - 2014 Tryouts
+        </div>
+        
+        
+        	<div class="registrationlink"><a href="http://eepurl.com/zd225" target="_blank">2013 - 2014 Tryouts Details</a></div>
+            <div class="registrationlink">
+            <p>click the image below for tryouts details</p>
+            <a href="tuscasssementdates.pdf" target="_blank">
+            	<img src="../images/2013-2014tryouts.png" alt="2013-2014 Tryouts Camp"></a>
+            </div>
+            
+            
+        
+    </section>
+    
+    <section>
+    	<div class="sectiontitle"><span class="yellowsquare">.</span>
              	Register for free spring developmental program
         </div>
         
