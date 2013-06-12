@@ -38,8 +38,8 @@
             <div id="slider" class="nivoSlider">
 	            <!--<img src="/images/stpartricksdayflyer.jpg" data-thumb="/images/stpartricksdayflyer.jpg" alt="" />
                 <img src="/images/andorospizzapickupslider.jpg" data-thumb="/images/andorospizzapickupslider.jpg" alt="" />
-            	<img src="/images/springkickoff.jpg" data-thumb="/images/springkickoff.jpg" alt="" />
-                <a href="http://eepurl.com/u9UV1" target="_blank"><img src="images/developmentaladvert2.jpg" data-thumb="/images/developmentaladvert2.jpg" alt="" title="#htmlcaption4" ></a>-->
+            	<img src="/images/springkickoff.jpg" data-thumb="/images/springkickoff.jpg" alt="" />-->
+                <a href="http://eepurl.com/zd225" target="_blank"><img src="images/2013tryouts.jpg" data-thumb="/images/2013tryouts.jpg" alt="" title="#htmlcaption2" ></a>
 				<a href="http://eepurl.com/ybJSX" target="_blank"><img src="images/freedevelopmental.jpg" data-thumb="/images/freedevelopmental.jpg" alt="" title="#htmlcaption4" ></a>
                 <a href="http://eepurl.com/wrs5H" target="_blank"><img src="images/summercamp13.jpg" data-thumb="/images/summercamp13.jpg" alt="" title="#htmlcaption5" ></a>
                 <img src="/images/u11showmegames640x480.jpg" data-thumb="/images/u11showmegames640x410.jpg" alt="" title="#htmlcaption0"/>
@@ -55,7 +55,9 @@
             <div id="htmlcaption1" class="nivo-html-caption">
                 Coachin' em up - Coaches Todd and Abbie coaching U12 up during halftime of the Dec 16 2012 match. 
             </div>
-            
+            <div id="htmlcaption2" class="nivo-html-caption">
+                <a href="http://eepurl.com/zd225" target="_blank">Click above or here to register for 2013 Tryouts.</a>
+            </div>
             <div id="htmlcaption3" class="nivo-html-caption">
                 U8 Season Opener - Technical Director and U8 Coach Daniel Olstad preps the team for the spring 2012 season opener.
             </div>
