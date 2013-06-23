@@ -39,31 +39,21 @@
 	            <!--<img src="/images/stpartricksdayflyer.jpg" data-thumb="/images/stpartricksdayflyer.jpg" alt="" />
                 <img src="/images/andorospizzapickupslider.jpg" data-thumb="/images/andorospizzapickupslider.jpg" alt="" />
             	<img src="/images/springkickoff.jpg" data-thumb="/images/springkickoff.jpg" alt="" />-->
+                <img src="/images/champgraphic.jpg" data-thumb="/images/champgraphic.jpg" alt="" title="#htmlcaption0"/>
                 <a href="http://eepurl.com/zd225" target="_blank"><img src="images/2013tryouts.jpg" data-thumb="/images/2013tryouts.jpg" alt="" title="#htmlcaption2" ></a>
-				<a href="http://eepurl.com/ybJSX" target="_blank"><img src="images/freedevelopmental.jpg" data-thumb="/images/freedevelopmental.jpg" alt="" title="#htmlcaption4" ></a>
+				
                 <a href="http://eepurl.com/wrs5H" target="_blank"><img src="images/summercamp13.jpg" data-thumb="/images/summercamp13.jpg" alt="" title="#htmlcaption5" ></a>
-                <img src="/images/u11showmegames640x480.jpg" data-thumb="/images/u11showmegames640x410.jpg" alt="" title="#htmlcaption0"/>
-                <img src="/images/u12toddabbiecoachingemup640x480.jpg" data-thumb="/images/u12toddabbiecoachingemup640x480.jpg" alt="" title="#htmlcaption1" />
                 
-               <img src="/images/u8seasonopener640x480.jpg" data-thumb="/images/u8seasonopener640x480.jpg" alt="" title="#htmlcaption3" />
-               
-               
             </div>
             <div id="htmlcaption0" class="nivo-html-caption">
-                2012 Show Me State Games - U11 at Show Me State Games Semi-Finals 
+                Congrats to the u9 girls on winning the River City Soccer Classic in Peoria. In the final the girls went down 2-0 but battled back and won 3-2 with a goal on the last kick of the game. 
             </div>
-            <div id="htmlcaption1" class="nivo-html-caption">
-                Coachin' em up - Coaches Todd and Abbie coaching U12 up during halftime of the Dec 16 2012 match. 
-            </div>
+            
             <div id="htmlcaption2" class="nivo-html-caption">
                 <a href="http://eepurl.com/zd225" target="_blank">Click above or here to register for 2013 Tryouts.</a>
             </div>
-            <div id="htmlcaption3" class="nivo-html-caption">
-                U8 Season Opener - Technical Director and U8 Coach Daniel Olstad preps the team for the spring 2012 season opener.
-            </div>
-            <div id="htmlcaption4" class="nivo-html-caption">
-                <a href="http://eepurl.com/ybJSX" target="_blank">Click above or here to register now for the free spring developmental program!</a>
-            </div>
+            
+            
             <div id="htmlcaption5" class="nivo-html-caption">
                 <a href="http://eepurl.com/wrs5H" target="_blank">Click above or here to register now for the 2013 Summer Camp!</a>
             </div>
