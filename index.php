@@ -37,8 +37,8 @@
 			<div class="slider-wrapper theme-light">
             <div id="slider" class="nivoSlider">
 	            <!--<img src="/images/stpartricksdayflyer.jpg" data-thumb="/images/stpartricksdayflyer.jpg" alt="" />
-                <img src="/images/andorospizzapickupslider.jpg" data-thumb="/images/andorospizzapickupslider.jpg" alt="" />
-            	<img src="/images/springkickoff.jpg" data-thumb="/images/springkickoff.jpg" alt="" />-->
+                <img src="/images/andorospizzapickupslider.jpg" data-thumb="/images/andorospizzapickupslider.jpg" alt="" />-->
+            	<a href="https://www.dropbox.com/s/u0ayuqfl1ltuka0/Trivia.Nite.Reg.2013.doc" target="_blank"><img src="/images/80strivflyer.jpg" data-thumb="/images/80strivflyer.jpg" alt="" title="#htmlcaption2"/></a>
                 <img src="/images/champgraphic.jpg" data-thumb="/images/champgraphic.jpg" alt="" title="#htmlcaption0"/>
                 <a href="http://eepurl.com/zd225" target="_blank"><img src="images/2013tryouts.jpg" data-thumb="/images/2013tryouts.jpg" alt="" title="#htmlcaption2" ></a>
 				
@@ -50,7 +50,7 @@
             </div>
             
             <div id="htmlcaption2" class="nivo-html-caption">
-                <a href="http://eepurl.com/zd225" target="_blank">Click above or here to register for 2013 Tryouts.</a>
+                <a href="https://www.dropbox.com/s/u0ayuqfl1ltuka0/Trivia.Nite.Reg.2013.doc" target="_blank">Click above or here for the Trivia Night Registration form</a>
             </div>
             
             

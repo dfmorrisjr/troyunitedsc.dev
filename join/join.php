@@ -58,7 +58,7 @@
                     	<li>Club Fees: $300 / year
                         	<ul>
                             	<li>$150 Due Feb 1</li>
-                                <li>$150 Due Aug 1</li>
+                                <li>$150 Due Jul 1</li>
                             </ul>
                         </li>
                         <li>Troy United Kits (uniforms): Currently $95 Ordered through the Club (includes player number and Troy United SC team logo on jerseys)
