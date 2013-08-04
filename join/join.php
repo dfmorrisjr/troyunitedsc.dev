@@ -73,7 +73,7 @@
                         <li>League Fees
                         	<ul>
                             	<li>SLYSA: $120-150 est. Spring 2013</li>
-                                <li>MYSA Seasonal Player Card, required by all players and coaches: $20 per season</li>
+                                <li>MYSA Seasonal Player Card, required by all players and coaches: $25 per season</li>
                             </ul>
                         	
                         </li>

@@ -39,16 +39,19 @@
 	            <!--<img src="/images/stpartricksdayflyer.jpg" data-thumb="/images/stpartricksdayflyer.jpg" alt="" />
                 <img src="/images/andorospizzapickupslider.jpg" data-thumb="/images/andorospizzapickupslider.jpg" alt="" />-->
             	<a href="https://www.dropbox.com/s/u0ayuqfl1ltuka0/Trivia.Nite.Reg.2013.doc" target="_blank"><img src="/images/80strivflyer.jpg" data-thumb="/images/80strivflyer.jpg" alt="" title="#htmlcaption2"/></a>
+                <img src="/images/u12showmestategames2013.jpg" data-thumb="/images/u12showmestategames2013.jpg" alt="" title="#htmlcaption1"/>
                 <img src="/images/champgraphic.jpg" data-thumb="/images/champgraphic.jpg" alt="" title="#htmlcaption0"/>
-                <a href="http://eepurl.com/zd225" target="_blank"><img src="images/2013tryouts.jpg" data-thumb="/images/2013tryouts.jpg" alt="" title="#htmlcaption2" ></a>
+               <!-- <a href="http://eepurl.com/zd225" target="_blank"><img src="images/2013tryouts.jpg" data-thumb="/images/2013tryouts.jpg" alt="" title="#htmlcaption2" ></a>
 				
-                <a href="http://eepurl.com/wrs5H" target="_blank"><img src="images/summercamp13.jpg" data-thumb="/images/summercamp13.jpg" alt="" title="#htmlcaption5" ></a>
+                <a href="http://eepurl.com/wrs5H" target="_blank"><img src="images/summercamp13.jpg" data-thumb="/images/summercamp13.jpg" alt="" title="#htmlcaption5" ></a>-->
                 
             </div>
             <div id="htmlcaption0" class="nivo-html-caption">
                 Congrats to the u9 girls on winning the River City Soccer Classic in Peoria. In the final the girls went down 2-0 but battled back and won 3-2 with a goal on the last kick of the game. 
             </div>
-            
+            <div id="htmlcaption0" class="nivo-html-caption">
+                Congratulations to the u12 girls on taking the Silver in the 2013 Show Me State Games 
+            </div>
             <div id="htmlcaption2" class="nivo-html-caption">
                 <a href="https://www.dropbox.com/s/u0ayuqfl1ltuka0/Trivia.Nite.Reg.2013.doc" target="_blank">Click above or here for the Trivia Night Registration form</a>
             </div>
@@ -60,11 +63,15 @@
         </div>
 			</section>
 			<section>
-			<div class="sectiontitle"><span class="yellowsquare">.</span>
+            
+            
+			<!--<div class="sectiontitle"><span class="yellowsquare">.</span>
 					recent results
 				</div>
-			<div id="ticker" class="query"></div>
-			<!--
+			<div id="ticker" class="query"></div>-->
+			
+            
+            <!--
 			<style type="text/css">
       #ticker {
         height: 4em;
@@ -82,12 +89,12 @@
       }
     </style>-->
 			</section>
-			<section>
+			<!--<section>
 				<div class="sectiontitle"><span class="yellowsquare">.</span>
 					SLYSA Rainout
 				</div>
 			<iframe style="width:475px;height:60px;border:0px none #ccc;background-color:#FFFFFF; margin: 10px 0px 10px 160px;" src="http://a.statushare.com/embed/1/scroll468x60.php?d=6364121512" frameborder="0" scrolling="no"></iframe>
-			</section>
+			</section>-->
 		</div>
 		<div class="four columns omega row">
         	<div id="accordion">

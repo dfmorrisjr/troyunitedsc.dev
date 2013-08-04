@@ -49,7 +49,9 @@
     
     
     <script type="text/javascript" src="/scripts/jquery.tweet.js"></script>
-    <script type='text/javascript'>
+    
+	<script type='text/javascript'>
+	/*
     jQuery(function($){
         $("#ticker").tweet({
           username: "TUSCResults",
@@ -73,6 +75,7 @@
           ticker();
         });
       });
+	  */
 	</script>
     
     <script>
