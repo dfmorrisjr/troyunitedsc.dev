@@ -37,8 +37,8 @@
 			<div class="slider-wrapper theme-light">
             <div id="slider" class="nivoSlider">
 	            <!--<img src="/images/stpartricksdayflyer.jpg" data-thumb="/images/stpartricksdayflyer.jpg" alt="" />
-                <img src="/images/andorospizzapickupslider.jpg" data-thumb="/images/andorospizzapickupslider.jpg" alt="" />-->
-            	<a href="https://www.dropbox.com/s/u0ayuqfl1ltuka0/Trivia.Nite.Reg.2013.doc" target="_blank"><img src="/images/80strivflyer.jpg" data-thumb="/images/80strivflyer.jpg" alt="" title="#htmlcaption2"/></a>
+                <img src="/images/andorospizzapickupslider.jpg" data-thumb="/images/andorospizzapickupslider.jpg" alt="" />
+            	<a href="https://www.dropbox.com/s/u0ayuqfl1ltuka0/Trivia.Nite.Reg.2013.doc" target="_blank"><img src="/images/80strivflyer.jpg" data-thumb="/images/80strivflyer.jpg" alt="" title="#htmlcaption2"/></a>-->
                 <img src="/images/u12showmestategames2013.jpg" data-thumb="/images/u12showmestategames2013.jpg" alt="" title="#htmlcaption1"/>
                 <img src="/images/champgraphic.jpg" data-thumb="/images/champgraphic.jpg" alt="" title="#htmlcaption0"/>
                <!-- <a href="http://eepurl.com/zd225" target="_blank"><img src="images/2013tryouts.jpg" data-thumb="/images/2013tryouts.jpg" alt="" title="#htmlcaption2" ></a>
@@ -49,7 +49,7 @@
             <div id="htmlcaption0" class="nivo-html-caption">
                 Congrats to the u9 girls on winning the River City Soccer Classic in Peoria. In the final the girls went down 2-0 but battled back and won 3-2 with a goal on the last kick of the game. 
             </div>
-            <div id="htmlcaption0" class="nivo-html-caption">
+            <div id="htmlcaption1" class="nivo-html-caption">
                 Congratulations to the u12 girls on taking the Silver in the 2013 Show Me State Games 
             </div>
             <div id="htmlcaption2" class="nivo-html-caption">
